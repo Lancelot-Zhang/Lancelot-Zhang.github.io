@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Hongyi Zhang"
-description              : "Medical AI, statistical learning, and trustworthy data-driven systems."
+description              : "Stay hungry, stay foolish."
 repository               : "Lancelot-Zhang/Lancelot-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 google_scholar_stats_enabled : false
@@ -17,7 +17,7 @@ baidu_site_verification  :
 author:
   name             : "Hongyi Zhang"
   avatar           : "images/avatar.jpg"
-  bio              : "M.S. in Data Analytics and Statistics, Washington University in St. Louis"
+  bio              :
   location         : "St. Louis, MO, USA"
   employer         :
   pubmed           :
