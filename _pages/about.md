@@ -14,20 +14,24 @@ I am **Hongyi (Jack) Zhang**, an M.S. student in **Data Analytics and Statistics
 
 My research interests center on medical AI, statistical machine learning, computational imaging, and data-driven modeling for high-dimensional scientific problems. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
-I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). You can also find me on my [MIR profile](https://www.mir.wustl.edu/employees/hongyi-zhang/), [Google Scholar](https://scholar.google.com/citations?user=3Z88MpwAAAAJ), [LinkedIn](https://www.linkedin.com/in/hongyi-zhang-cn/), and [ORCiD](https://orcid.org/0009-0002-4307-6331). [[CV]](files/Hongyi_Zhang_CV.pdf)
+I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). You can also find me on my [MIR profile](https://www.mir.wustl.edu/employees/hongyi-zhang/), [Google Scholar](https://scholar.google.com/citations?user=3Z88MpwAAAAJ), [LinkedIn](https://www.linkedin.com/in/hongyi-zhang-cn/), and [ORCiD](https://orcid.org/0009-0002-4307-6331).
+
+# Education
+
+- **Washington University in St. Louis (WashU)**, USA <span style="float: right;">*Aug 2024 - May 2026*</span><br>
+  M.S. in Data Analytics and Statistics, GPA: 3.94/4.00.
+- **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019 - Jul 2023*</span><br>
+  B.S. in Mathematics and Applied Mathematics, GPA: 85/100.
+- **North Carolina State University**, USA <span style="float: right;">*2022*</span><br>
+  Exchange Program, Data Science Program. Grade: A+.
 
 # News
 
+- *2026.05*: Received the Master's Honors Program recognition, The Outstanding Master's Research Award, and Student Marshal honor at Washington University in St. Louis.
 - *2026.05*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
 - *2025.08*: Started as an AI Agent Developer at Spect AI Inc. (Nonlinear), working on agentic workflows for the architecture, engineering, and construction industry.
 - *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu.
 - *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis.
-
-# Education
-
-- *Aug 2024 - May 2026*, **M.S. in Data Analytics and Statistics**, Washington University in St. Louis, USA. GPA: 3.94/4.00.
-- *Aug 2019 - Jul 2023*, **B.S. in Mathematics and Applied Mathematics**, Southern University of Science and Technology, China. GPA: 3.38/4.00.
-- *2022*, **Exchange Program**, North Carolina State University Data Science Program. Grade: A+.
 
 # Publications
 
