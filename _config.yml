@@ -1,7 +1,7 @@
 # Site Settings
 title                    : "Hongyi Zhang"
 description              : "Medical AI, statistical learning, and trustworthy data-driven systems."
-repository               : "hongyi-zhang/hongyi-zhang.github.io"
+repository               : "Lancelot-Zhang/Lancelot-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 google_scholar_stats_enabled : false
 
@@ -32,7 +32,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hongyi-zhang"
+  github           : "Lancelot-Zhang"
   google_plus      :
   keybase          :
   instagram        :

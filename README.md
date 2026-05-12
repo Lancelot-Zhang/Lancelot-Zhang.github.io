@@ -28,13 +28,13 @@ Open `http://127.0.0.1:4000`.
 Create a GitHub repository named:
 
 ```text
-hongyi-zhang.github.io
+Lancelot-Zhang.github.io
 ```
 
-The `repository` field in `_config.yml` is already set to `hongyi-zhang/hongyi-zhang.github.io`. Push this project to that repository, and GitHub Pages will publish it at:
+The `repository` field in `_config.yml` is already set to `Lancelot-Zhang/Lancelot-Zhang.github.io`. Push this project to that repository, and GitHub Pages will publish it at:
 
 ```text
-https://hongyi-zhang.github.io
+https://Lancelot-Zhang.github.io
 ```
 
 ## Credit

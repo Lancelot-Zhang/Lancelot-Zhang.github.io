@@ -8,7 +8,7 @@
 
 - `title`: 网站标题，通常写你的姓名。
 - `description`: 左侧个人信息栏的一句话简介。
-- `repository`: 当前已设为 `hongyi-zhang/hongyi-zhang.github.io`。
+- `repository`: 当前已设为 `Lancelot-Zhang/Lancelot-Zhang.github.io`。
 - `author.name`: 你的姓名。
 - `author.avatar`: 头像路径。默认使用 `images/android-chrome-512x512.png`，你可以替换成自己的头像。
 - `author.bio`: 你的身份，例如 `Ph.D. Student, Department of ...`。
@@ -51,6 +51,6 @@ google_scholar_stats_enabled : false
 
 ## 5. 发布
 
-1. 在 GitHub 新建或改名仓库为 `hongyi-zhang.github.io`。
+1. 在 GitHub 新建或改名仓库为 `Lancelot-Zhang.github.io`。
 2. 把本项目推送到该仓库。
-3. 等 GitHub Pages 构建完成后，访问 `https://hongyi-zhang.github.io`。
+3. 等 GitHub Pages 构建完成后，访问 `https://Lancelot-Zhang.github.io`。
