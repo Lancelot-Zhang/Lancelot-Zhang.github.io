@@ -65,10 +65,10 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 # Teaching
 
-- **Lead Teaching Assistant**, Probability and Stochastic Processes, Washington University in St. Louis.
-- **Lead Teaching Assistant**, Optimization, Washington University in St. Louis.
-- **Grader**, Introduction to Machine Learning and Pattern Classification, Washington University in St. Louis.
-- **Teaching Assistant**, Introduction to MATLAB, Southern University of Science and Technology.
+- *2025*, **Lead Teaching Assistant**, Probability and Stochastic Processes, Washington University in St. Louis.
+- *2025*, **Lead Teaching Assistant**, Optimization, Washington University in St. Louis.
+- *2026*, **Grader**, Introduction to Machine Learning and Pattern Classification, Washington University in St. Louis.
+- *2022*, **Teaching Assistant**, Introduction to MATLAB, Southern University of Science and Technology.
 
 # Industry Experience
 
