@@ -13,16 +13,22 @@ main:
     url: "/#publications"
 
   - title: "Research"
-    url: "/#research-experience"
-
-  - title: "Honors"
-    url: "/#honors-and-awards"
+    url: "/#research"
 
   - title: "Industry"
-    url: "/#industry-experience"
+    url: "/#industry"
+
+  - title: "Teaching"
+    url: "/#teaching"
 
   - title: "Exchange"
     url: "/#exchange"
+
+  - title: "Honors"
+    url: "/#honors"
+
+  - title: "Activities"
+    url: "/#activities"
 
   - title: "Hobbies"
     url: "/#hobbies"

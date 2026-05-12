@@ -58,7 +58,7 @@ In preparation for submission to *Brain*, 2026.
 
 For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
 
-# Research Experience
+# Research
 
 - *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, advised by Prof. Shinjini Kundu. Developed geometry-aware MD-MRI features using Transport-Based Morphometry and PCA, optimized Random Forest models, and reconstructed predictive maps aligned with histology-derived tau pathology.
 - *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia. Built deep neural network surrogate models for high-frequency Bitcoin log-return densities, achieving R2 of 0.96 and RMSE of 0.03.
@@ -66,7 +66,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes. Implemented computer vision pipelines for object detection and real-time face recognition, achieving 0.988 accuracy in face recognition.
 - *Jan 2023 - Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Built cryptocurrency price prediction models using wavelet denoising, autoencoders, CNN-LSTM, time-series cross-validation, and Bayesian optimization.
 
-# Industry Experience
+# Industry
 
 - *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc., Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
 - *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing. Optimized credit rating workflows, implemented forecasting models, and used IoT risk monitoring data to identify operational anomalies and potential default risks.
@@ -82,7 +82,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 - *2022*, **Exchange Program**, North Carolina State University, USA. Data Science Program, Grade: A+.
 
-# Honors and Awards
+# Honors
 
 - *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
 - *2026*, Master's Honors Program, Washington University in St. Louis.
