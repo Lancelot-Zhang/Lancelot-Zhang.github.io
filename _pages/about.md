@@ -47,7 +47,6 @@ In preparation for submission to *Brain*, 2026.
 </div>
 
 - **Hongyi Zhang**. Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease. *McKelvey School of Engineering Theses & Dissertations*, Washington University in St. Louis, 2026. [[Thesis]](https://openscholarship.wustl.edu/eng_etds/1356)
-- **Hongyi Zhang**, C. S. Latimer, C. D. Keene, D. Benjamini, S. Kundu. Mapping Phosphorylated Tau using Multidimensional MRI in Alzheimer's Disease. *Electrical and Systems Engineering Undergraduate and Graduate Research*, 2025.
 - **Hongyi Zhang**. Real-time face recognition method based on MTCNN-Inception-ResNet-v2-SVM model. *Applied and Computational Engineering*, 45, 179-189, 2024. [[DOI]](https://doi.org/10.54254/2755-2721/45/20241677)
 - L. Hai, T. Du, B. Sun, W. Yang, B. Chang, Z. Zhao, H. Li, B. Jia, **Hongyi Zhang**. Bursting prevention of hard roof by axial slit cutting and fracturing with abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044-053044, 2023.
 - Y. M. Wang, S. Lei, **Hongyi Zhang**. Numerical simulation analysis of coal silos surrounding rock stability under different coal storage conditions. *China Energy and Environmental Protection*, 45(08), 6-10, 2023. [[DOI]](https://doi.org/10.19389/j.cnki.1003-0506.2023.08.002)
@@ -98,4 +97,4 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 # Hobbies
 
-- Hiking, traveling, kickboxing, basketball, and fitness.
+- Hiking, traveling, kickboxing, basketball, fitness, stock investing, consumer electronics, mechanical systems, and automobiles.
