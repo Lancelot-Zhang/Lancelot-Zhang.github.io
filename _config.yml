@@ -16,6 +16,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Hongyi Zhang"
+  chinese_name     : "张弘毅"
   avatar           : "images/profile-2022.png"
   bio              :
   location         : "USA"

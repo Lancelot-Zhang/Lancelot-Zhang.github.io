@@ -145,6 +145,14 @@
   font-size: $type-size-4;
 }
 
+.sidebar .author__name--zh {
+  margin-top: 0;
+
+  @include breakpoint($large) {
+    margin-top: 0;
+  }
+}
+
 .author__bio {
   margin: 0;
 
