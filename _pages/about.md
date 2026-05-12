@@ -72,7 +72,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 # Industry Experience
 
-- *Aug 2025 - Present*, **AI Agent Developer**, Spect AI Inc. (Nonlinear), Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
+- *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc. (Nonlinear), Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
 - *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing. Optimized credit rating workflows, implemented forecasting models, and used IoT risk monitoring data to identify operational anomalies and potential default risks.
 
 # Exchange
