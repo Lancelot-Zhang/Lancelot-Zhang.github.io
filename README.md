@@ -12,17 +12,6 @@ Most content lives in three files:
 
 See `CUSTOMIZE.md` for a Chinese step-by-step guide.
 
-## Local Preview
-
-Install Ruby and Bundler, then run:
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Open `http://127.0.0.1:4000`.
-
 ## Deploy
 
 Create a GitHub repository named:
