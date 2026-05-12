@@ -22,8 +22,6 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
   M.S. in Data Analytics and Statistics, GPA: 3.94/4.00.
 - **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019 - Jul 2023*</span><br>
   B.S. in Mathematics and Applied Mathematics, GPA: 85/100.
-- **North Carolina State University**, USA <span style="float: right;">*2022*</span><br>
-  Exchange Program, Data Science Program. Grade: A+.
 
 # News
 
@@ -54,7 +52,7 @@ In preparation for submission to *Brain*, 2026.
 - L. Hai, T. Du, B. Sun, W. Yang, B. Chang, Z. Zhao, H. Li, B. Jia, **Hongyi Zhang**. Bursting prevention of hard roof by axial slit cutting and fracturing with abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044-053044, 2023.
 - Y. M. Wang, S. Lei, **Hongyi Zhang**. Numerical simulation analysis of coal silos surrounding rock stability under different coal storage conditions. *China Energy and Environmental Protection*, 45(08), 6-10, 2023. [[DOI]](https://doi.org/10.19389/j.cnki.1003-0506.2023.08.002)
 - Y. Wang, **Hongyi Zhang**. Discussion and Countermeasures for the Main Problem Schemes of the 6.0 Mt/a Mine Renovation. *Shandong Coal Science and Technology*, 107-110, 2023.
-- L. Hai, Z. Du, C. Sun, Y. Sun, S. Yang, C. Zhao, Q. Zhao, H. Li, S. Li, B. Gong, L. Zhang, **Hongyi Zhang**. 坚硬顶板磨砂射流轴向切顶防冲技术研究. *采矿与岩层控制工程学报*, 5(5), 053044-053044, 2023.
+- L. Hai, Z. Du, C. Sun, Y. Sun, S. Yang, C. Zhao, Q. Zhao, H. Li, S. Li, B. Gong, L. Zhang, **Hongyi Zhang**. Research on axial slit cutting and impact prevention technology for hard roof using abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044-053044, 2023.
 
 For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
 
@@ -78,6 +76,10 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *Aug 2025 - Present*, **AI Agent Developer**, Spect AI Inc. (Nonlinear), Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
 - *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing. Optimized credit rating workflows, implemented forecasting models, and used IoT risk monitoring data to identify operational anomalies and potential default risks.
 
+# Exchange
+
+- *2022*, **Exchange Program**, North Carolina State University, USA. Data Science Program, Grade: A+.
+
 # Honors and Awards
 
 - *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
@@ -93,3 +95,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *Mar 2020 - Sep 2022*, Co-founder and Chief Advisor, SUSTech Powerlifting Club.
 - *Mar 2022 - Sep 2022*, Volunteer, SUSTech COVID-19 Prevention and Control Team.
 - *Dec 2019 - Jan 2020*, Volunteer, SUSTech Undergraduate Admission Office.
+
+# Hobbies
+
+- Hiking, traveling, kickboxing, basketball, and fitness.

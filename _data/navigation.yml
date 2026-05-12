@@ -20,3 +20,9 @@ main:
 
   - title: "Industry"
     url: "/#industry-experience"
+
+  - title: "Exchange"
+    url: "/#exchange"
+
+  - title: "Hobbies"
+    url: "/#hobbies"
