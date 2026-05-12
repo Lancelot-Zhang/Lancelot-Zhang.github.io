@@ -1,63 +1,57 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Hongyi Zhang"
+description              : "Medical AI, statistical learning, and trustworthy data-driven systems."
+repository               : "hongyi-zhang/hongyi-zhang.github.io"
 google_scholar_stats_use_cdn : true
+google_scholar_stats_enabled : false
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# Google analytics
+google_analytics_id      :
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Hongyi Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  bio              : "M.S. in Data Analytics and Statistics, Washington University in St. Louis"
+  location         : "St. Louis, MO, USA"
+  employer         : "Washington University in St. Louis"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=3Z88MpwAAAAJ"
+  email            : "hongyi.zhang@wustl.edu"
+  personal_email   : "hongyi.zhang.cn@gmail.com"
+  researchgate     :
+  uri              : "https://mir.wustl.edu/hongyi-zhang"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "hongyi-zhang"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "hongyi-zhang-cn"
+  dblp             :
+  orcid            : "https://orcid.org/0009-0002-4307-6331"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -97,14 +91,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -119,7 +111,6 @@ kramdown:
 
 # Defaults
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -127,17 +118,14 @@ defaults:
       layout: default
       author_profile: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: America/Chicago
 
 # Plugins
 plugins:
@@ -146,7 +134,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -154,9 +142,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:

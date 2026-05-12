@@ -3,56 +3,90 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Hongyi Zhang**, an M.S. student in **Data Analytics and Statistics** at [Washington University in St. Louis](https://wustl.edu/), where I work as a Research Assistant in the WashU Medicine Medical AI Lab advised by Prof. Shinjini Kundu.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests center on medical AI, statistical machine learning, computational imaging, and data-driven modeling for high-dimensional scientific problems. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
+I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=3Z88MpwAAAAJ), [LinkedIn](https://www.linkedin.com/in/hongyi-zhang-cn/), and [ORCiD](https://orcid.org/0009-0002-4307-6331). [[CV]](files/Hongyi_Zhang_CV.pdf)
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Highlights
 
-# 📝 Publications 
+- Outstanding Master's Research Award, Master's Honors Program, and Student Marshal at Washington University in St. Louis.
+- Research Assistant at WashU Medicine Medical AI Lab, developing multidimensional MRI and machine learning methods for Alzheimer's disease pathology mapping.
+- Built an MD-MRI framework for estimating histology-defined phosphorylated tau burden, achieving 92.6% binary accuracy, 89.3% ternary accuracy, and an R2 of 0.883 for continuous pTau estimation.
+- Research experience across medical imaging, statistical learning, cryptocurrency modeling, computer vision, and AI agents for engineering workflows.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# News
+
+- *2026.05*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
+- *2025.08*: Started as an AI Agent Developer at Spect AI Inc. (Nonlinear), working on agentic workflows for the architecture, engineering, and construction industry.
+- *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu.
+- *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis.
+
+# Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hongyi Zhang**, C. S. Latimer, C. D. Keene, D. Benjamini, S. Kundu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+In preparation for submission to *Brain*, 2026.
+
+- Developed a supervised machine learning framework using multidimensional MRI to estimate pTau concentration and spatial distribution in Alzheimer's disease.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Hongyi Zhang**. Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease. *McKelvey School of Engineering Theses & Dissertations*, 2026. [[Thesis]](https://openscholarship.wustl.edu/eng_etds/1356)
+- **Hongyi Zhang**. Real-time face recognition method based on MTCNN-Inception-ResNet-v2-SVM model. *Applied and Computational Engineering*, 45, 179-189, 2024. [[DOI]](https://doi.org/10.54254/2755-2721/45/20241677)
+- Y. M. Wang, S. Lei, **Hongyi Zhang**. Numerical simulation analysis of coal silos surrounding rock stability under different coal storage conditions. *China Energy and Environmental Protection*, 45(08), 6-10, 2023. [[DOI]](https://doi.org/10.19389/j.cnki.1003-0506.2023.08.002)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Research Experience
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Jan 2025 - Present*, **Research Assistant**, WashU Medicine Medical AI Lab, Washington University in St. Louis, advised by Prof. Shinjini Kundu. Developed geometry-aware MD-MRI features using Transport-Based Morphometry and PCA, optimized Random Forest models with nested cross-validation and Bayesian optimization, and reconstructed predictive maps aligned with histology-derived tau pathology.
+- *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia. Built deep neural network surrogate models for high-frequency Bitcoin log-return densities, achieving R2 of 0.96 and RMSE of 0.03.
+- *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi. Worked on coal-rock image processing, microseismical hazard analysis, numerical simulation, and rock mechanics modeling.
+- *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes. Implemented computer vision pipelines for object detection and real-time face recognition, achieving 0.988 accuracy in face recognition.
+- *Jan 2023 - Jun 2023*, **Undergraduate Thesis**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Built cryptocurrency price prediction models using wavelet denoising, autoencoders, CNN-LSTM, time-series cross-validation, and Bayesian optimization.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# Education
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Aug 2024 - May 2026*, **M.S. in Data Analytics and Statistics**, Washington University in St. Louis, USA. GPA: 3.94/4.00.
+- *Aug 2019 - Jul 2023*, **B.S. in Mathematics and Applied Mathematics**, Southern University of Science and Technology, China. GPA: 3.38/4.00.
+- *2022*, **Exchange Program**, North Carolina State University Data Science Program. Grade: A+.
+
+# Teaching
+
+- **Lead Teaching Assistant**, Probability and Stochastic Processes, Washington University in St. Louis.
+- **Lead Teaching Assistant**, Optimization, Washington University in St. Louis.
+- **Grader**, Introduction to Machine Learning and Pattern Classification, Washington University in St. Louis.
+- **Teaching Assistant**, Introduction to MATLAB, Southern University of Science and Technology.
+
+# Industry Experience
+
+- *Aug 2025 - Present*, **AI Agent Developer**, Spect AI Inc. (Nonlinear), Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
+- *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing. Optimized credit rating workflows, implemented forecasting models, and used IoT risk monitoring data to identify operational anomalies and potential default risks.
+
+# Honors and Awards
+
+- *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
+- *2026*, Master's Honors Program, Washington University in St. Louis.
+- *2026*, Student Marshal, Washington University in St. Louis.
+- *2022*, Mathematical Contest in Modeling, Honorable Mention, Leader.
+- *2021*, China Undergraduate Mathematical Contest in Modeling, Excellence Award, Leader.
+- *2020*, Joint University Investment Game issued by HKSI, Overall 7th Runner-up.
+- SUSTech Outstanding Undergraduate Scholarship.
+
+# Activities
+
+- *Mar 2020 - Sep 2022*, Co-founder and Chief Advisor, SUSTech Powerlifting Club.
+- *Mar 2022 - Sep 2022*, Volunteer, SUSTech COVID-19 Prevention and Control Team.
+- *Dec 2019 - Jan 2020*, Volunteer, SUSTech Undergraduate Admission Office.

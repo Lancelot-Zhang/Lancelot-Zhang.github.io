@@ -203,6 +203,9 @@
 
   .visible-links {
     display: table;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.1rem;
 
     li {
       display: table-cell;
@@ -225,6 +228,7 @@
 
     a {
       position: relative;
+      text-align: center;
 
       &:before {
         content: "";
