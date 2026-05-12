@@ -62,17 +62,17 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes. Implemented computer vision pipelines for object detection and real-time face recognition, achieving 0.988 accuracy in face recognition.
 - *Jan 2023 - Jun 2023*, **Undergraduate Thesis**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Built cryptocurrency price prediction models using wavelet denoising, autoencoders, CNN-LSTM, time-series cross-validation, and Bayesian optimization.
 
+# Industry Experience
+
+- *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc., Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
+- *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing. Optimized credit rating workflows, implemented forecasting models, and used IoT risk monitoring data to identify operational anomalies and potential default risks.
+
 # Teaching
 
 - *2025*, **Lead Teaching Assistant**, Probability and Stochastic Processes, Washington University in St. Louis.
 - *2025*, **Lead Teaching Assistant**, Optimization, Washington University in St. Louis.
 - *2026*, **Grader**, Introduction to Machine Learning and Pattern Classification, Washington University in St. Louis.
 - *2022*, **Teaching Assistant**, Introduction to MATLAB, Southern University of Science and Technology.
-
-# Industry Experience
-
-- *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc. (Nonlinear), Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
-- *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing. Optimized credit rating workflows, implemented forecasting models, and used IoT risk monitoring data to identify operational anomalies and potential default risks.
 
 # Exchange
 
