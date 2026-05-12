@@ -18,9 +18,9 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # News
 
-- *2026.05*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
+- *2026.04*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
 - *2026.04*: Received The Outstanding Master's Research Award at Washington University in St. Louis.
-- *2026.04*: Selected as Student Marshal at Washington University in St. Louis.
+- *2026.05*: Selected as Student Marshal of the McKelvey School of Engineering at Washington University in St. Louis.
 - *2026.03*: Recognized by the Master's Honors Program at Washington University in St. Louis.
 - *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu.
 - *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis.
