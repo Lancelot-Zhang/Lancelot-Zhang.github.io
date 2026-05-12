@@ -25,7 +25,7 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 - *2026.04*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
 - *2026.03*: Received admission to the Ph.D. in Data Science program at Arizona State University.
 - *2026.03*: Received admission to the Ph.D. in Electrical Engineering program at Washington University in St. Louis.
-- *2026.03*: Recognized by the Master's Honors Program at Washington University in St. Louis.
+- *2026.03*: Selected for the Master's Honors Program at Washington University in St. Louis.
 <!-- - *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu. -->
 <!-- - *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis. -->
 
