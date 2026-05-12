@@ -20,11 +20,7 @@ Create a GitHub repository named:
 Lancelot-Zhang.github.io
 ```
 
-The `repository` field in `_config.yml` is already set to `Lancelot-Zhang/Lancelot-Zhang.github.io`. Push this project to that repository, and GitHub Pages will publish it at:
-
-```text
-https://Lancelot-Zhang.github.io
-```
+The `repository` field in `_config.yml` is already set to `Lancelot-Zhang/Lancelot-Zhang.github.io`. Push this project to that repository, and GitHub Pages will publish it at [https://Lancelot-Zhang.github.io](https://Lancelot-Zhang.github.io).
 
 ## Credit
 
