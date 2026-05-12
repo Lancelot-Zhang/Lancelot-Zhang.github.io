@@ -85,10 +85,10 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
 - *2026*, Master's Honors Program, Washington University in St. Louis.
 - *2026*, Student Marshal, Washington University in St. Louis.
-- *2022*, Mathematical Contest in Modeling, Honorable Mention, Leader.
-- *2021*, China Undergraduate Mathematical Contest in Modeling, Excellence Award, Leader.
-- *2020*, Joint University Investment Game issued by HKSI, Overall 7th Runner-up.
-- SUSTech Outstanding Undergraduate Scholarship.
+- *2022*, Honorable Mention, Mathematical Contest in Modeling, Consortium for Mathematics and Its Applications, Leader.
+- *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, Leader.
+- *2020*, Overall 7th Runner-up, Joint University Investment Game, Hong Kong Securities and Investment Institute.
+- *2022*, SUSTech Outstanding Undergraduate Scholarship, Southern University of Science and Technology.
 
 # Activities
 
