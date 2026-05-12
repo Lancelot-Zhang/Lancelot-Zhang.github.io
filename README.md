@@ -1,6 +1,6 @@
 # Hongyi Zhang — Academic Homepage
 
-Source code for the personal academic homepage of **Hongyi (Jack) Zhang (张鸿毅)**, M.S. student in Data Analytics and Statistics at Washington University in St. Louis and Research Assistant at the WashU Medicine Medical AI Lab.
+Source code for the personal academic homepage of **Hongyi (Jack) Zhang (张弘毅)**, M.S. student in Data Analytics and Statistics at Washington University in St. Louis and Research Assistant at the WashU Medicine Medical AI Lab.
 
 **Live site:** [https://Lancelot-Zhang.github.io](https://Lancelot-Zhang.github.io)
 
@@ -20,9 +20,6 @@ The homepage presents:
 - **Teaching** — TA and grader positions at WashU and SUSTech.
 - **Industry Experience** — AI agent development at Spect AI (Nonlinear) and earlier internships.
 - **Honors & Awards**, **Exchange**, **Activities**, **Hobbies**.
-
-Contact: [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) · [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com)
-Profiles: [Google Scholar](https://scholar.google.com/citations?user=3Z88MpwAAAAJ) · [ORCID](https://orcid.org/0009-0002-4307-6331) · [LinkedIn](https://www.linkedin.com/in/hongyi-zhang-cn/) · [MIR](https://www.mir.wustl.edu/employees/hongyi-zhang/)
 
 ---
 
@@ -67,24 +64,6 @@ Almost everything you would want to update lives in three files:
 | `_data/navigation.yml` | The top navigation bar. Remove or reorder entries to match the sections in `about.md`. |
 
 A Chinese step-by-step guide is in [`CUSTOMIZE.md`](./CUSTOMIZE.md).
-
----
-
-## Local Development
-
-Requires Ruby ≥ 2.7 and Bundler.
-
-```bash
-# Install dependencies
-bundle install
-
-# Run a local server with live reload
-bundle exec jekyll serve --livereload
-# or
-./run_server.sh
-```
-
-The site will be available at [http://127.0.0.1:4000](http://127.0.0.1:4000).
 
 ---
 
