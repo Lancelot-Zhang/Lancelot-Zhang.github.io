@@ -16,20 +16,19 @@ My research interests center on medical AI, statistical machine learning, comput
 
 I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). You can also find me on my [MIR profile](https://www.mir.wustl.edu/employees/hongyi-zhang/), [Google Scholar](https://scholar.google.com/citations?user=3Z88MpwAAAAJ), [LinkedIn](https://www.linkedin.com/in/hongyi-zhang-cn/), and [ORCiD](https://orcid.org/0009-0002-4307-6331).
 
+# News
+
+- *2026.05*: Received the Master's Honors Program recognition, The Outstanding Master's Research Award, and Student Marshal honor at Washington University in St. Louis.
+- *2026.05*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
+- *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu.
+- *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis.
+
 # Education
 
 - **Washington University in St. Louis (WashU)**, USA <span style="float: right;">*Aug 2024 - May 2026*</span><br>
   M.S. in Data Analytics and Statistics, GPA: 3.94/4.00.
 - **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019 - Jul 2023*</span><br>
   B.S. in Mathematics and Applied Mathematics, GPA: 85/100.
-
-# News
-
-- *2026.05*: Received the Master's Honors Program recognition, The Outstanding Master's Research Award, and Student Marshal honor at Washington University in St. Louis.
-- *2026.05*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
-- *2025.08*: Started as an AI Agent Developer at Spect AI Inc. (Nonlinear), working on agentic workflows for the architecture, engineering, and construction industry.
-- *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu.
-- *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis.
 
 # Publications
 
@@ -48,10 +47,9 @@ In preparation for submission to *Brain*, 2026.
 
 - **Hongyi Zhang**. Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease. *McKelvey School of Engineering Theses & Dissertations*, Washington University in St. Louis, 2026. [[Thesis]](https://openscholarship.wustl.edu/eng_etds/1356)
 - **Hongyi Zhang**. Real-time face recognition method based on MTCNN-Inception-ResNet-v2-SVM model. *Applied and Computational Engineering*, 45, 179-189, 2024. [[DOI]](https://doi.org/10.54254/2755-2721/45/20241677)
-- L. Hai, T. Du, B. Sun, W. Yang, B. Chang, Z. Zhao, H. Li, B. Jia, **Hongyi Zhang**. Bursting prevention of hard roof by axial slit cutting and fracturing with abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044-053044, 2023.
+- L. Hai, T. Du, B. Sun, W. Yang, B. Chang, Z. Zhao, H. Li, B. Jia, **Hongyi Zhang**. Bursting prevention of hard roof by axial slit cutting and fracturing with abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044-053044, 2023. [[DOI]](https://doi.org/10.13532/j.jmsce.cn10-1638/td.20230904.001)
 - Y. M. Wang, S. Lei, **Hongyi Zhang**. Numerical simulation analysis of coal silos surrounding rock stability under different coal storage conditions. *China Energy and Environmental Protection*, 45(08), 6-10, 2023. [[DOI]](https://doi.org/10.19389/j.cnki.1003-0506.2023.08.002)
 - Y. Wang, **Hongyi Zhang**. Discussion and Countermeasures for the Main Problem Schemes of the 6.0 Mt/a Mine Renovation. *Shandong Coal Science and Technology*, 107-110, 2023.
-- L. Hai, Z. Du, C. Sun, Y. Sun, S. Yang, C. Zhao, Q. Zhao, H. Li, S. Li, B. Gong, L. Zhang, **Hongyi Zhang**. Research on axial slit cutting and impact prevention technology for hard roof using abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044-053044, 2023.
 
 For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
 
@@ -97,4 +95,4 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 # Hobbies
 
-- Hiking, traveling, kickboxing, basketball, fitness, stock investing, consumer electronics, mechanical systems, and automobiles.
+- Hiking, traveling, kickboxing, basketball, fitness, stock investing, electronics, mechanical systems, and automobiles.
