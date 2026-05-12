@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Hongyi Zhang**, an M.S. student in **Data Analytics and Statistics** at [Washington University in St. Louis](https://wustl.edu/), where I work as a Research Assistant in the WashU Medicine Medical AI Lab advised by Prof. Shinjini Kundu.
+I am **Hongyi (Jack) Zhang**, an M.S. student in **Data Analytics and Statistics** at [Washington University in St. Louis](https://wustl.edu/), where I work as a Research Assistant in the WashU Medicine Medical AI Lab advised by Prof. Shinjini Kundu.
 
 My research interests center on medical AI, statistical machine learning, computational imaging, and data-driven modeling for high-dimensional scientific problems. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
