@@ -16,16 +16,16 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Hongyi Zhang"
-  avatar           : "images/avatar.jpg"
+  avatar           : "images/profile-2022.png"
   bio              :
-  location         :
+  location         : "USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3Z88MpwAAAAJ"
   email            : "hongyi.zhang@wustl.edu"
   personal_email   : "hongyi.zhang.cn@gmail.com"
   researchgate     :
-  uri              : "https://www.mir.wustl.edu/employees/hongyi-zhang/"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
