@@ -56,11 +56,11 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 # Research Experience
 
-- *Jan 2025 - Present*, **Research Assistant**, WashU Medicine Medical AI Lab, Washington University in St. Louis, advised by Prof. Shinjini Kundu. Developed geometry-aware MD-MRI features using Transport-Based Morphometry and PCA, optimized Random Forest models with nested cross-validation and Bayesian optimization, and reconstructed predictive maps aligned with histology-derived tau pathology.
+- *Jan 2025 - Present*, **Research Assistant**, WashU Medicine Medical AI Lab, Washington University in St. Louis, advised by Prof. Shinjini Kundu. Developed geometry-aware MD-MRI features using Transport-Based Morphometry and PCA, optimized Random Forest models, and reconstructed predictive maps aligned with histology-derived tau pathology.
 - *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia. Built deep neural network surrogate models for high-frequency Bitcoin log-return densities, achieving R2 of 0.96 and RMSE of 0.03.
 - *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi. Worked on coal-rock image processing, microseismical hazard analysis, numerical simulation, and rock mechanics modeling.
 - *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes. Implemented computer vision pipelines for object detection and real-time face recognition, achieving 0.988 accuracy in face recognition.
-- *Jan 2023 - Jun 2023*, **Undergraduate Thesis**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Built cryptocurrency price prediction models using wavelet denoising, autoencoders, CNN-LSTM, time-series cross-validation, and Bayesian optimization.
+- *Jan 2023 - Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Built cryptocurrency price prediction models using wavelet denoising, autoencoders, CNN-LSTM, time-series cross-validation, and Bayesian optimization.
 
 # Industry Experience
 
@@ -83,10 +83,10 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
 - *2026*, Master's Honors Program, Washington University in St. Louis.
 - *2026*, Student Marshal, Washington University in St. Louis.
+- *2022*, SUSTech Outstanding Undergraduate Scholarship, Southern University of Science and Technology.
 - *2022*, Honorable Mention, Mathematical Contest in Modeling, Consortium for Mathematics and Its Applications, Leader.
 - *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, Leader.
 - *2020*, Overall 7th Runner-up, Joint University Investment Game, Hong Kong Securities and Investment Institute.
-- *2022*, SUSTech Outstanding Undergraduate Scholarship, Southern University of Science and Technology.
 
 # Activities
 
