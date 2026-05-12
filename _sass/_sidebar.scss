@@ -15,6 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
+    margin-left: -2rem;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -26,6 +27,7 @@
 
 
   @include breakpoint($x-large) {
+    margin-left: -3rem;
     padding-right: 0;
   }
 
@@ -92,11 +94,18 @@
   }
 
   img {
-    max-width: 175px;
+    width: 75px;
+    height: 75px;
+    max-width: 75px;
     min-width: 75px;
+    object-fit: cover;
+    object-position: 50% 45%;
     border-radius: 50%;
 
     @include breakpoint($large) {
+      width: 175px;
+      height: 175px;
+      max-width: 175px;
       padding: 5px;
       border: 1px solid $border-color;
     }

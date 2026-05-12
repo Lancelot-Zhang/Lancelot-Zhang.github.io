@@ -16,19 +16,18 @@ My research interests center on medical AI, statistical machine learning, comput
 
 I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=3Z88MpwAAAAJ), [LinkedIn](https://www.linkedin.com/in/hongyi-zhang-cn/), and [ORCiD](https://orcid.org/0009-0002-4307-6331). [[CV]](files/Hongyi_Zhang_CV.pdf)
 
-# Highlights
-
-- Outstanding Master's Research Award, Master's Honors Program, and Student Marshal at Washington University in St. Louis.
-- Research Assistant at WashU Medicine Medical AI Lab, developing multidimensional MRI and machine learning methods for Alzheimer's disease pathology mapping.
-- Built an MD-MRI framework for estimating histology-defined phosphorylated tau burden, achieving 92.6% binary accuracy, 89.3% ternary accuracy, and an R2 of 0.883 for continuous pTau estimation.
-- Research experience across medical imaging, statistical learning, cryptocurrency modeling, computer vision, and AI agents for engineering workflows.
-
 # News
 
 - *2026.05*: Completed M.S. thesis, "Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease," at Washington University in St. Louis.
 - *2025.08*: Started as an AI Agent Developer at Spect AI Inc. (Nonlinear), working on agentic workflows for the architecture, engineering, and construction industry.
 - *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu.
 - *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis.
+
+# Education
+
+- *Aug 2024 - May 2026*, **M.S. in Data Analytics and Statistics**, Washington University in St. Louis, USA. GPA: 3.94/4.00.
+- *Aug 2019 - Jul 2023*, **B.S. in Mathematics and Applied Mathematics**, Southern University of Science and Technology, China. GPA: 3.38/4.00.
+- *2022*, **Exchange Program**, North Carolina State University Data Science Program. Grade: A+.
 
 # Publications
 
@@ -56,12 +55,6 @@ In preparation for submission to *Brain*, 2026.
 - *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi. Worked on coal-rock image processing, microseismical hazard analysis, numerical simulation, and rock mechanics modeling.
 - *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes. Implemented computer vision pipelines for object detection and real-time face recognition, achieving 0.988 accuracy in face recognition.
 - *Jan 2023 - Jun 2023*, **Undergraduate Thesis**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Built cryptocurrency price prediction models using wavelet denoising, autoencoders, CNN-LSTM, time-series cross-validation, and Bayesian optimization.
-
-# Education
-
-- *Aug 2024 - May 2026*, **M.S. in Data Analytics and Statistics**, Washington University in St. Louis, USA. GPA: 3.94/4.00.
-- *Aug 2019 - Jul 2023*, **B.S. in Mathematics and Applied Mathematics**, Southern University of Science and Technology, China. GPA: 3.38/4.00.
-- *2022*, **Exchange Program**, North Carolina State University Data Science Program. Grade: A+.
 
 # Teaching
 

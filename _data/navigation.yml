@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Highlights"
-    url: "/#highlights"
+  - title: "Education"
+    url: "/#education"
 
   - title: "Publications"
     url: "/#publications"
@@ -17,9 +17,6 @@ main:
 
   - title: "Honors"
     url: "/#honors-and-awards"
-
-  - title: "Education"
-    url: "/#education"
 
   - title: "Industry"
     url: "/#industry-experience"
