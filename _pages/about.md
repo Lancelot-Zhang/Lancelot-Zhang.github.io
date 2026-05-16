@@ -40,7 +40,7 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Research
 
-- *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, advised by Prof. Shinjini Kundu.
+- *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, Medical AI Lab, advised by Prof. Shinjini Kundu.
 - *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia.
 - *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi.
 - *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes.
