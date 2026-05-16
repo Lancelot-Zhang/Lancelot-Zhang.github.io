@@ -24,8 +24,8 @@ main:
   - title: "Exchange"
     url: "/#exchange"
 
-  - title: "Leadership and Service"
-    url: "/#leadership-and-service"
+  - title: "Leadership"
+    url: "/#leadership"
 
   - title: "Hobbies"
     url: "/#hobbies"

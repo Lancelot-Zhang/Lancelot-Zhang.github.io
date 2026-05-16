@@ -93,7 +93,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 - *2022*, **Exchange Program**, North Carolina State University, USA. Data Science Program, Grade: A+.
 
-# Leadership and Service
+# Leadership
 
 - *May 2026*, Commencement Volunteer, Washington University in St. Louis.
 - *Feb 2026 - Present*, Member, United Way of Greater St. Louis Volunteer Center.
