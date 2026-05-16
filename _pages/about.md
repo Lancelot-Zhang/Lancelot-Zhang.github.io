@@ -46,13 +46,14 @@ Beyond academia, I am also an open-source developer interested in leveraging cod
 
 # Honors
 
-- *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
-- *2026*, Master's Honors Program, Washington University in St. Louis.
-- *2026*, Student Marshal, Washington University in St. Louis.
-- *2022*, SUSTech Outstanding Undergraduate Scholarship, Southern University of Science and Technology.
-- *2022*, Honorable Mention, Mathematical Contest in Modeling, Consortium for Mathematics and Its Applications, Leader.
-- *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, Leader.
-- *2020*, Overall 7th Runner-up, Joint University Investment Game, Hong Kong Securities and Investment Institute.
+- *2026*, The Outstanding Master's Research Award, Washington University in St. Louis (WashU).
+- *2026*, Master's Honors Program, Washington University in St. Louis (WashU).
+- *2026*, Student Marshal, Washington University in St. Louis (WashU).
+- *2022*, SUSTech Outstanding Undergraduate Scholarship, Southern University of Science and Technology (SUSTech).
+- *2022*, Honorable Mention, Mathematical Contest in Modeling, Consortium for Mathematics and Its Applications (COMAP), Leader.
+- *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics (CSIAM), Leader.
+- *2020*, Overall 7th Runner-up, Joint University Investment Game, Hong Kong Securities and Investment Institute (HKSI).
+- *2019*, SUSTech Freshman Scholarship, Southern University of Science and Technology (SUSTech).
 
 # Publication
 
