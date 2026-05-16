@@ -46,14 +46,14 @@ Beyond academia, I am also an open-source developer interested in leveraging cod
 
 # Honors
 
-- *2026*, The Outstanding Master's Research Award, WashU.
-- *2026*, Master's Honors Program, WashU.
-- *2026*, Student Marshal, WashU.
-- *2022*, SUSTech Outstanding Undergraduate Scholarship, SUSTech.
-- *2022*, Honorable Mention, Mathematical Contest in Modeling, COMAP, Leader.
-- *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, CSIAM, Leader.
-- *2020*, Overall 7th Runner-up, Joint University Investment Game, HKSI.
-- *2019*, SUSTech Freshman Scholarship, SUSTech.
+- *2026*, **The Outstanding Master's Research Award**, WashU.
+- *2026*, **Master's Honors Program**, WashU.
+- *2026*, **Student Marshal**, WashU.
+- *2022*, **SUSTech Outstanding Undergraduate Scholarship**, SUSTech.
+- *2022*, **Honorable Mention, Mathematical Contest in Modeling**, COMAP, Leader.
+- *2021*, **Excellence Award, China Undergraduate Mathematical Contest in Modeling**, CSIAM, Leader.
+- *2020*, **Overall 7th Runner-up, Joint University Investment Game**, HKSI.
+- *2019*, **SUSTech Freshman Scholarship**, SUSTech.
 
 # Publication
 
