@@ -90,12 +90,17 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, Leader.
 - *2020*, Overall 7th Runner-up, Joint University Investment Game, Hong Kong Securities and Investment Institute.
 
-# Activities
+# Leadership and Service
 
-- *Mar 2020 - Sep 2022*, Co-founder and Chief Advisor, SUSTech Powerlifting Club.
+- *May 2026*, Commencement Volunteer, Washington University in St. Louis.
+- *Feb 2026 - Present*, Member, United Way of Greater St. Louis Volunteer Center.
+- *Jun 2025 - Present*, Member, St. Louis Young Single Adult (YSA) Community.
+- *Apr 2024*, Forum Volunteer, Mining Artificial Intelligence Forum.
+- *Nov 2023*, Conference Volunteer, Digital Rock Mechanics Launch Conference.
 - *Mar 2022 - Sep 2022*, Volunteer, SUSTech COVID-19 Prevention and Control Team.
+- *Mar 2020 - Sep 2022*, Co-founder, SUSTech Powerlifting Club.
 - *Dec 2019 - Jan 2020*, Volunteer, SUSTech Undergraduate Admission Office.
 
 # Hobbies
 
-- Hiking, traveling, kickboxing, basketball, fitness, stock investing, electronics, mechanical systems, and automobiles.
+- Hiking, traveling, kickboxing, basketball, fitness training, electronics, mechanical systems, automobiles, and investment research.
