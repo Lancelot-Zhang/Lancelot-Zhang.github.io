@@ -92,7 +92,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 # Projects
 
 - *Sep 2024 - Mar 2025*, **Project Leader**, Project-Based Learning, Massachusetts Institute of Technology.
-- *2022*, **Exchange Program**, North Carolina State University, USA. Data Science Program, Grade: A+.
+- *2022*, **Data Science Program**, North Carolina State University, Grade: A+.
 
 # Leadership
 
