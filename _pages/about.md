@@ -16,8 +16,6 @@ My research interests include Artificial Intelligence, Machine Learning, Mathema
 
 Beyond academia, I am also an open-source developer interested in leveraging coding agents to support open-source communities. I strongly believe in the open-source spirit and its potential to make technology more accessible, collaborative, and impactful.
 
-I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). You can also find me on my [MIR Profile](https://www.mir.wustl.edu/employees/hongyi-zhang/), [Google Scholar](https://scholar.google.com/citations?user=3Z88MpwAAAAJ), [LinkedIn](https://www.linkedin.com/in/hongyi-zhang-cn/), and [ORCiD](https://orcid.org/0009-0002-4307-6331).
-
 # News
 
 - *2026.05*: Selected as Student Marshal of the McKelvey School of Engineering at Washington University in St. Louis.
