@@ -16,6 +16,8 @@ My research interests include Artificial Intelligence, Machine Learning, Mathema
 
 Beyond academia, I am also an open-source developer interested in leveraging coding agents to support open-source communities. I strongly believe in the open-source spirit and its potential to make technology more accessible, collaborative, and impactful.
 
+I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com).
+
 {% comment %}
 # News
 
