@@ -1,95 +1,82 @@
-# Hongyi Zhang — Academic Homepage
+# Hongyi Zhang Academic Homepage
 
-Source code for the personal academic homepage of **Hongyi (Jack) Zhang (张弘毅)**, M.S. student in Data Analytics and Statistics at Washington University in St. Louis and Research Assistant at the WashU Medicine Medical AI Lab.
+Source code for the personal academic homepage of **Hongyi (Jack) Zhang**, M.S. student in Data Analytics and Statistics at Washington University in St. Louis and Research Assistant at the WashU Medical AI Lab.
 
 **Live site:** [https://Lancelot-Zhang.github.io](https://Lancelot-Zhang.github.io)
 
-The site is a Jekyll project deployed via GitHub Pages, based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template, with custom content, layout adjustments, and bilingual personal information.
+This is a Jekyll site deployed with GitHub Pages. It is based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template, with customized homepage content, sidebar profile links, navigation, publication formatting, and a visitor map widget.
 
----
+## Current Homepage Sections
 
-## About the Site
+- **About**: short academic bio, research interests, open-source interests, and contact emails.
+- **Education**: degree programs at WashU and SUSTech.
+- **Research**: research assistant roles at WashU, USC, CICS, Duke, and SUSTech.
+- **Honors**: awards and distinctions with abbreviated issuing organizations.
+- **Publication**: thesis, papers, DOI links, and Google Scholar profile link.
+- **Industry**: AI agent development and data analysis experience.
+- **Teaching**: TA, lead TA, and grader roles.
+- **Projects**: MIT project-based learning and NC State data science program.
+- **Leadership**: volunteer, community, and student organization roles.
+- **Hobbies**: personal interests.
+- **Visitor Map**: MapMyVisitors widget at the bottom of the homepage.
 
-The homepage presents:
-
-- **About** — research interests in AI, machine learning, mathematical modeling, and biomedical informatics.
-- **News** — recent academic milestones and awards.
-- **Education** — degree programs at WashU and SUSTech.
-- **Publications** — journal articles, preprints, and the M.S. thesis.
-- **Research Experience** — affiliations with WashU Medicine, USC, Duke, and CICS.
-- **Teaching** — TA and grader positions at WashU and SUSTech.
-- **Industry Experience** — AI agent development at Spect AI (Nonlinear) and earlier internships.
-- **Honors & Awards**, **Exchange**, **Activities**, **Hobbies**.
-
----
+The News section is intentionally kept in `_pages/about.md` as a Liquid comment, so the content remains in source control but is not displayed on the live homepage.
 
 ## Tech Stack
 
-- [Jekyll](https://jekyllrb.com/) — static site generator
-- [Kramdown](https://kramdown.gettalong.org/) + [Rouge](https://github.com/rouge-ruby/rouge) — Markdown and syntax highlighting
-- [Sass / SCSS](https://sass-lang.com/) — styling
-- GitHub Pages — hosting and CI
-- GitHub Actions — automatic Google Scholar citation updates
-
----
+- [Jekyll](https://jekyllrb.com/) for static site generation
+- [Kramdown](https://kramdown.gettalong.org/) and [Rouge](https://github.com/rouge-ruby/rouge) for Markdown and syntax highlighting
+- Sass / SCSS for styling
+- GitHub Pages for hosting
+- GitHub Actions for optional Google Scholar citation updates
 
 ## Project Structure
 
-```
+```text
 .
-├── _config.yml              # Site settings, author profile, social links
-├── _pages/about.md          # All homepage section content (About, News, Pubs, …)
-├── _data/navigation.yml     # Top navigation bar
-├── _includes/               # HTML partials (sidebar, masthead, head, scripts)
-├── _layouts/                # Page templates
-├── _sass/                   # SCSS modules
-├── assets/                  # Compiled CSS / JS / fonts
-├── images/                  # Avatar, paper thumbnails, figures
-├── files/                   # CV, slides, and other downloadable assets
-├── google_scholar_crawler/  # GitHub Action that refreshes citation counts
-├── CUSTOMIZE.md             # 中文定制指南 (Chinese customization guide)
-└── README.md
+|-- _config.yml              # Site settings, author profile, social links, SEO
+|-- _pages/about.md          # Main homepage content
+|-- _data/navigation.yml     # Top navigation bar
+|-- _includes/               # HTML partials, including the author sidebar
+|-- _layouts/                # Page templates
+|-- _sass/                   # SCSS modules
+|-- assets/                  # Compiled CSS, JavaScript, and fonts
+|-- images/                  # Avatar, thumbnails, and figures
+|-- files/                   # CV, slides, and downloadable assets
+|-- google_scholar_crawler/  # Citation update workflow support
+|-- CUSTOMIZE.md             # Customization guide
+`-- README.md
 ```
 
----
+## Editing Guide
 
-## Editing Content
+Most homepage updates are made in these files:
 
-Almost everything you would want to update lives in three files:
+| File | Purpose |
+|------|---------|
+| `_pages/about.md` | Main page content, including About, Education, Research, Honors, Publication, Industry, Teaching, Projects, Leadership, Hobbies, and the visitor map. |
+| `_data/navigation.yml` | Navigation labels and section anchors. |
+| `_includes/author-profile.html` | Left sidebar profile and social links. |
+| `_config.yml` | Site metadata, author profile data, avatar, and account links. |
 
-| File | What it controls |
-|------|------------------|
-| `_config.yml` | Site title, author name (English + Chinese), avatar, email, GitHub / Scholar / ORCID / LinkedIn handles, SEO. |
-| `_pages/about.md` | All homepage sections — About, News, Education, Publications, Research, Teaching, Industry, Honors, Exchange, Activities, Hobbies. |
-| `_data/navigation.yml` | The top navigation bar. Remove or reorder entries to match the sections in `about.md`. |
+When adding a new visible section, add the section heading in `_pages/about.md` and, if it should appear in the menu, add the matching anchor in `_data/navigation.yml`.
 
-A Chinese step-by-step guide is in [`CUSTOMIZE.md`](./CUSTOMIZE.md).
+## Visitor Map
 
----
+The homepage uses a MapMyVisitors widget near the bottom of `_pages/about.md`. The widget is wrapped in a small `.visitor-map` container so it displays at a reduced size and leaves extra spacing below it.
 
 ## Deployment
 
-1. Push to the GitHub repository `Lancelot-Zhang/Lancelot-Zhang.github.io` (already configured under `repository:` in `_config.yml`).
-2. GitHub Pages builds the site automatically from the `main` branch.
-3. The published site is available at [https://Lancelot-Zhang.github.io](https://Lancelot-Zhang.github.io).
-
-### Google Scholar Citation Updates
-
-The `google_scholar_crawler/` workflow refreshes citation counts on a schedule. To enable it:
-
-1. Set `google_scholar_stats_enabled: true` in `_config.yml`.
-2. Add `GOOGLE_SCHOLAR_ID` as a repository secret (Settings → Secrets and variables → Actions).
-3. Make sure GitHub Actions is enabled for the repository.
-
----
+1. Commit changes to the `main` branch.
+2. Push to `Lancelot-Zhang/Lancelot-Zhang.github.io`.
+3. GitHub Pages builds and publishes the site automatically.
 
 ## Acknowledgements
 
-This site is built on the excellent [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template by [RayeRen](https://github.com/RayeRen), which is itself based on the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme. Both are MIT-licensed; the original `LICENSE` is preserved in this repository.
-
----
+This site is built on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template by [RayeRen](https://github.com/RayeRen), which is based on the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme.
 
 ## License
 
-Code: MIT (see `LICENSE`).
-Content (text, publications, images, CV, and other personal materials): © Hongyi Zhang. All rights reserved.
+Code: MIT, see `LICENSE`.
+
+Personal content, publications, images, CV, and other materials: Copyright Hongyi Zhang. All rights reserved.

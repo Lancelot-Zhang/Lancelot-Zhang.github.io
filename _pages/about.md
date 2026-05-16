@@ -111,6 +111,20 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 - Hiking, traveling, kickboxing, basketball, fitness training, electronics, mechanical systems, automobiles, and investment research.
 
+<style>
+  .visitor-map {
+    max-width: 320px;
+    margin: 0.75rem 0 2.8rem;
+  }
+
+  .visitor-map iframe,
+  .visitor-map img,
+  .visitor-map canvas {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+</style>
+
 <div class="visitor-map">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UaK1yaLQI07uUkbJ59_UMH_BpPZP1xnkDxr8_zb_IGk&cl=ffffff&w=a"></script>
 </div>
