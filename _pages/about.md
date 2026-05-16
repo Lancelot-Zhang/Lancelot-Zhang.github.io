@@ -32,9 +32,9 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 # Education
 
 - **Washington University in St. Louis (WashU)**, USA <span style="float: right;">*Aug 2024 - May 2026*</span><br>
-  M.S. in Data Analytics and Statistics with Honors, GPA: 3.94/4.00.
+  M.S. in Data Analytics and Statistics with Honors.
 - **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019 - Jul 2023*</span><br>
-  B.S. in Mathematics and Applied Mathematics, GPA: 85/100.
+  B.S. in Mathematics and Applied Mathematics.
 
 # Publications
 
