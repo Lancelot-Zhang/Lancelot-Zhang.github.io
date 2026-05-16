@@ -40,11 +40,11 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Research
 
-- *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, Medical AI Lab, advised by Prof. Shinjini Kundu.
-- *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia.
-- *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi.
-- *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes.
-- *Jan 2023 - Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen.
+- *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, Medical AI Lab, advised by Prof. Shinjini Kundu. Mapping Phosphorylated Tau Using MD-MRI in Alzheimer's Disease.
+- *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia. Deep Neural Network Surrogate Modeling for High-Frequency Bitcoin Dynamics.
+- *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi. Intelligent Mining and Rock Mechanics Analysis.
+- *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes. Computer Vision and Real-Time Face Recognition.
+- *Jan 2023 - Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Cryptocurrency Price Prediction Based on Machine Learning.
 
 # Honors
 
