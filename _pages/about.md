@@ -110,3 +110,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 # Hobbies
 
 - Hiking, traveling, kickboxing, basketball, fitness training, electronics, mechanical systems, automobiles, and investment research.
+
+<div class="visitor-map">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UaK1yaLQI07uUkbJ59_UMH_BpPZP1xnkDxr8_zb_IGk&cl=ffffff&w=a"></script>
+</div>
