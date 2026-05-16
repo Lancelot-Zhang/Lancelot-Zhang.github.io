@@ -113,8 +113,8 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 <style>
   .visitor-map {
-    max-width: 320px;
-    margin: 0.75rem 0 2.8rem;
+    max-width: 500px;
+    margin: 0.75rem auto 2.8rem;
   }
 
   .visitor-map iframe,
