@@ -16,6 +16,7 @@ My research interests include Artificial Intelligence, Machine Learning, Mathema
 
 Beyond academia, I am also an open-source developer interested in leveraging coding agents to support open-source communities. I strongly believe in the open-source spirit and its potential to make technology more accessible, collaborative, and impactful.
 
+{% comment %}
 # News
 
 - *2026.05*: Selected as Student Marshal of the McKelvey School of Engineering at Washington University in St. Louis.
@@ -26,6 +27,7 @@ Beyond academia, I am also an open-source developer interested in leveraging cod
 - *2026.03*: Selected for the Master's Honors Program at Washington University in St. Louis.
 <!-- - *2025.01*: Joined WashU Medicine Medical AI Lab as a Research Assistant advised by Prof. Shinjini Kundu. -->
 <!-- - *2024.08*: Began the M.S. program in Data Analytics and Statistics at Washington University in St. Louis. -->
+{% endcomment %}
 
 # Education
 
@@ -34,7 +36,25 @@ Beyond academia, I am also an open-source developer interested in leveraging cod
 - **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019 - Jul 2023*</span><br>
   B.S. in Mathematics and Applied Mathematics.
 
-# Publications
+# Research
+
+- *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, advised by Prof. Shinjini Kundu.
+- *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia.
+- *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi.
+- *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes.
+- *Jan 2023 - Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen.
+
+# Honors
+
+- *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
+- *2026*, Master's Honors Program, Washington University in St. Louis.
+- *2026*, Student Marshal, Washington University in St. Louis.
+- *2022*, SUSTech Outstanding Undergraduate Scholarship, Southern University of Science and Technology.
+- *2022*, Honorable Mention, Mathematical Contest in Modeling, Consortium for Mathematics and Its Applications, Leader.
+- *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, Leader.
+- *2020*, Overall 7th Runner-up, Joint University Investment Game, Hong Kong Securities and Investment Institute.
+
+# Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,18 +76,10 @@ In preparation for submission to *Brain*, 2026.
 
 For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
 
-# Research
-
-- *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, advised by Prof. Shinjini Kundu. Developed geometry-aware MD-MRI features using Transport-Based Morphometry and PCA, optimized Random Forest models, and reconstructed predictive maps aligned with histology-derived tau pathology.
-- *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia. Built deep neural network surrogate models for high-frequency Bitcoin log-return densities, achieving R2 of 0.96 and RMSE of 0.03.
-- *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi. Worked on coal-rock image processing, microseismical hazard analysis, numerical simulation, and rock mechanics modeling.
-- *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes. Implemented computer vision pipelines for object detection and real-time face recognition, achieving 0.988 accuracy in face recognition.
-- *Jan 2023 - Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen. Built cryptocurrency price prediction models using wavelet denoising, autoencoders, CNN-LSTM, time-series cross-validation, and Bayesian optimization.
-
 # Industry
 
-- *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc., Remote. Developed agentic workflows for architecture, engineering, and construction workflows, and built ML models integrating LLM-driven reasoning for cost estimation and construction strategy evaluation.
-- *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing. Optimized credit rating workflows, implemented forecasting models, and used IoT risk monitoring data to identify operational anomalies and potential default risks.
+- *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc., Remote.
+- *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.
 
 # Teaching
 
@@ -79,16 +91,6 @@ For the latest citation information, please see my [Google Scholar profile](http
 # Exchange
 
 - *2022*, **Exchange Program**, North Carolina State University, USA. Data Science Program, Grade: A+.
-
-# Honors
-
-- *2026*, The Outstanding Master's Research Award, Washington University in St. Louis.
-- *2026*, Master's Honors Program, Washington University in St. Louis.
-- *2026*, Student Marshal, Washington University in St. Louis.
-- *2022*, SUSTech Outstanding Undergraduate Scholarship, Southern University of Science and Technology.
-- *2022*, Honorable Mention, Mathematical Contest in Modeling, Consortium for Mathematics and Its Applications, Leader.
-- *2021*, Excellence Award, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, Leader.
-- *2020*, Overall 7th Runner-up, Joint University Investment Game, Hong Kong Securities and Investment Institute.
 
 # Leadership and Service
 

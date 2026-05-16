@@ -3,17 +3,17 @@ main:
   - title: "About"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#news"
-
   - title: "Education"
     url: "/#education"
 
-  - title: "Publications"
-    url: "/#publications"
-
   - title: "Research"
     url: "/#research"
+
+  - title: "Honors"
+    url: "/#honors"
+
+  - title: "Publication"
+    url: "/#publication"
 
   - title: "Industry"
     url: "/#industry"
@@ -23,9 +23,6 @@ main:
 
   - title: "Exchange"
     url: "/#exchange"
-
-  - title: "Honors"
-    url: "/#honors"
 
   - title: "Leadership and Service"
     url: "/#leadership-and-service"
