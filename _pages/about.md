@@ -52,7 +52,7 @@ Beyond academia, I am also an open-source developer interested in leveraging cod
 - *2022*, **SUSTech Outstanding Undergraduate Scholarship**, SUSTech.
 - *2022*, **Honorable Mention, Mathematical Contest in Modeling**, COMAP, Leader.
 - *2021*, **Excellence Award, China Undergraduate Mathematical Contest in Modeling**, CSIAM, Leader.
-- *2020*, **Overall 7th Runner-up, Joint University Investment Game**, HKSI.
+- *2020*, **Overall 7th Place, Joint University Investment Game**, HKSI.
 - *2019*, **SUSTech Freshman Scholarship**, SUSTech.
 
 # Publication
@@ -89,8 +89,9 @@ For the latest citation information, please see my [Google Scholar profile](http
 - *2026*, **Grader**, Introduction to Machine Learning and Pattern Classification, Washington University in St. Louis.
 - *2022*, **Teaching Assistant**, Introduction to MATLAB, Southern University of Science and Technology.
 
-# Exchange
+# Projects
 
+- *Sep 2024 - Mar 2025*, **Project Leader**, Project-Based Learning, Massachusetts Institute of Technology.
 - *2022*, **Exchange Program**, North Carolina State University, USA. Data Science Program, Grade: A+.
 
 # Leadership
