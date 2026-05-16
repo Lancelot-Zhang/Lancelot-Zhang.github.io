@@ -113,7 +113,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 <style>
   .visitor-map {
-    max-width: 500px;
+    max-width: 600px;
     margin: 0.75rem auto 2.8rem;
   }
 
