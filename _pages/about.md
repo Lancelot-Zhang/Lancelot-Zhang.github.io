@@ -34,9 +34,11 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 # Education
 
 - **Washington University in St. Louis (WashU)**, USA <span style="float: right;">*Aug 2024 - May 2026*</span><br>
-  M.S. in Data Analytics and Statistics with Honors.
+  M.S. in Data Analytics and Statistics with Honors.<br>
+  Advisor: [Professor Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/).
 - **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019 - Jul 2023*</span><br>
-  B.S. in Mathematics and Applied Mathematics.
+  B.S. in Mathematics and Applied Mathematics.<br>
+  Advisor: [Professor Jiaqiang Wen](https://math.sustech.edu.cn/c/wenjiaqiang).
 
 # Research
 
