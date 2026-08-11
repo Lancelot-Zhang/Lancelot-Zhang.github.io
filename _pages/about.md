@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Researcher in Prof. Ruiliang Bai’s group at Zhejiang University. Previously, I earned an M.S. in Data Analytics and Statistics with Honors from Washington University in St. Louis, where I worked as a Research Assistant under the supervision of Prof. Shinjini Kundu.
+Hi! My name is **Hongyi (Jack) Zhang**. I am currently an Assistant Researcher in Prof. Ruiliang Bai’s group at Zhejiang University. Previously, I earned an M.S. in Data Analytics and Statistics with Honors from Washington University in St. Louis, where I worked as a Research Assistant under the supervision of Prof. Shinjini Kundu.
 
 My research interests include Artificial Intelligence, Machine Learning, Mathematical Modeling, and Biomedical Informatics. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
