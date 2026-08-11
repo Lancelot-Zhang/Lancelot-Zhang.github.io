@@ -5,7 +5,10 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  font-size: 104.5%;
+  /* CMU Sans Serif has a smaller x-height than Trebuchet MS (0.445em vs
+     ~0.52em), so it reads noticeably smaller at the same px size. Bumped from
+     104.5% to compensate; set back to 104.5% to undo. */
+  font-size: 115%;
 }
 
 body {

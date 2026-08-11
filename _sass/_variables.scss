@@ -13,11 +13,17 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
-// $sans-serif                 : Georgia, serif, sans-serif;
+/* CMU Sans Serif = LaTeX's \sffamily (Computer Modern). Self-hosted webfont,
+   see _sass/_fonts.scss. The rest of the stack is the fallback while the
+   webfont loads, and covers CJK, which CM has no glyphs for. */
+$cmu-sans                   : "CMU Sans Serif", "Trebuchet MS", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 
-// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : $cmu-sans;
+$sans-serif                 : $cmu-sans;
+
+// previous values, kept for easy revert:
+// $serif                      : Georgia, Times, serif;
+// $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */

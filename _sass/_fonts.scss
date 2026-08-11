@@ -1,0 +1,47 @@
+/* ==========================================================================
+   WEB FONTS — CMU Sans Serif (Computer Modern Unicode)
+   --------------------------------------------------------------------------
+   The sans-serif companion to Knuth's Computer Modern, i.e. the typeface you
+   get from LaTeX's \sffamily. Self-hosted so there is no third-party request.
+
+   Source:  CM Unicode by Andrey V. Panov — https://ctan.org/pkg/cm-unicode
+   License: SIL Open Font License (OFL)
+   Files:   subset to Latin / Latin Ext / Greek / punctuation / math symbols
+            and converted to woff2 (~55 KB each, ~225 KB total).
+            CJK is intentionally not covered — CM has no CJK glyphs, so those
+            characters fall through to the system font in the stack below.
+   ========================================================================== */
+
+$cmu-font-path: "../fonts" !default;
+
+@font-face {
+  font-family: "CMU Sans Serif";
+  src: url("#{$cmu-font-path}/cmun-sans-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CMU Sans Serif";
+  src: url("#{$cmu-font-path}/cmun-sans-oblique.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CMU Sans Serif";
+  src: url("#{$cmu-font-path}/cmun-sans-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CMU Sans Serif";
+  src: url("#{$cmu-font-path}/cmun-sans-bold-oblique.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
