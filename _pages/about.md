@@ -136,12 +136,26 @@ If you enjoy sports and would like a training partner, feel free to [reach out](
   }
 
   .visitor-map__canvas {
-    margin-top: 1rem;
+    width: 640px;
+    max-width: 100%;
+    margin: 1rem auto 0;
     text-align: center;
   }
 
   .visitor-map__canvas #mapmyvisitors-widget {
     max-width: 100%;
+  }
+
+  @media screen and (max-width: 47.9375em) {
+    .visitor-map__canvas {
+      width: 300px;
+    }
+  }
+
+  @media screen and (max-width: 21.25em) {
+    .visitor-map__canvas {
+      width: 240px;
+    }
   }
 </style>
 
