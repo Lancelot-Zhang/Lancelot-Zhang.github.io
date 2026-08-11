@@ -112,22 +112,42 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 # Hobbies
 
-- Hiking, traveling, kickboxing, basketball, fitness training, electronics, mechanical systems, automobiles, and investment research.
+- Boxing, badminton, basketball, cycling, and hiking.
+
+If you enjoy sports and would like a training partner, feel free to [reach out](mailto:hongyi.zhang.cn@gmail.com)!
 
 <style>
   .visitor-map {
-    max-width: 600px;
-    margin: 0.75rem auto 2.8rem;
+    margin: 2.2rem 0 2.8rem;
+    border-top: 1px solid #efefef;
+    padding-top: 1rem;
   }
 
-  .visitor-map iframe,
-  .visitor-map img,
-  .visitor-map canvas {
-    max-width: 100% !important;
-    height: auto !important;
+  .visitor-map > summary {
+    cursor: pointer;
+    color: #a2a8ac;
+    font-size: 0.7em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .visitor-map > summary:hover {
+    color: #7a8288;
+  }
+
+  .visitor-map__canvas {
+    margin-top: 1rem;
+    text-align: center;
+  }
+
+  .visitor-map__canvas #mapmyvisitors-widget {
+    max-width: 100%;
   }
 </style>
 
-<div class="visitor-map">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UaK1yaLQI07uUkbJ59_UMH_BpPZP1xnkDxr8_zb_IGk&cl=ffffff&w=a"></script>
-</div>
+<details class="visitor-map">
+  <summary>Visitor map</summary>
+  <div class="visitor-map__canvas">
+    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=UaK1yaLQI07uUkbJ59_UMH_BpPZP1xnkDxr8_zb_IGk&cl=ffffff&w=a"></script>
+  </div>
+</details>
