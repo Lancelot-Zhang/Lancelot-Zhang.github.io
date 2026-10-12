@@ -87,9 +87,9 @@ In preparation for submission to *Brain*, 2026.
 <div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
 <div class='paper-box-text' markdown="1">
 
-Quantitative MRI Assessment of Blood–CSF Barrier Water Exchange
+REXI-Based Quantitative MRI Assessment of Blood–CSF Barrier Water Exchange
 
-Simulation experiments and data curation are currently underway. Preliminary scan–rescan analyses indicate broadly stable measurements, and further optimization of the acquisition and analysis workflow is ongoing.
+Data collection, scanning, and data processing are currently underway.
 </div>
 </div>
 
