@@ -62,7 +62,10 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='images/500x300.png' alt="publication thumbnail" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image paper-box-image--pair'><div class="badge">In Preparation</div><div class="publication-figure-pair">
+  <a href="images/ptau-mapping-figure-1.png" aria-label="Open the cohort ground-truth figure at full size"><img src="images/ptau-mapping-figure-1.png" alt="Internal and external cohort ground-truth maps for pTau regression and classification" loading="lazy" decoding="async"></a>
+  <a href="images/ptau-mapping-figure-3.png" aria-label="Open the prediction comparison figure at full size"><img src="images/ptau-mapping-figure-3.png" alt="Ground-truth and random-forest prediction maps for pTau regression and classification" loading="lazy" decoding="async"></a>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease
