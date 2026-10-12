@@ -44,7 +44,7 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 - *July 2026 - Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, advised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).
 - *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, Computational Imaging Research Center, Medical AI Lab, advised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).<br>
-  Mapping Phosphorylated Tau Using MD-MRI in Alzheimer's Disease (**The Outstanding Master’s Research Award**).
+  Mapping Phosphorylated Tau Using MD-MRI in Alzheimer's Disease (**Outstanding Master’s Research Award**).
 - *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia.<br>
   Deep Neural Network Surrogate Modeling for High-Frequency Bitcoin Dynamics.
 - *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi.<br>
