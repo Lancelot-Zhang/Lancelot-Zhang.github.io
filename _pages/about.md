@@ -42,7 +42,8 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Research
 
-- *July 2026 - Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, advised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).
+- *July 2026 - Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, advised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).<br>
+  Extending REXI to Study Brain Tissue–CSF Water Exchange in Alzheimer’s Disease.
 - *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, Computational Imaging Research Center, Medical AI Lab, advised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).<br>
   Mapping Phosphorylated Tau Using MD-MRI in Alzheimer's Disease (**Outstanding Master’s Research Award**).
 - *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia.<br>
