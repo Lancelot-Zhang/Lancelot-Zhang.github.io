@@ -43,7 +43,7 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 # Research
 
 - *July 2026 - Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, advised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).<br>
-  Extending REXI to Study Brain Tissue–CSF Water Exchange in Alzheimer’s Disease.
+  Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease.
 - *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, Computational Imaging Research Center, Medical AI Lab, advised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).<br>
   Mapping Phosphorylated Tau Using MD-MRI in Alzheimer's Disease (**Outstanding Master’s Research Award**).
 - *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia.<br>
@@ -87,13 +87,14 @@ In preparation for submission to *Brain*, 2026.
 <div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
 <div class='paper-box-text' markdown="1">
 
-REXI-Based Quantitative MRI for Studying Brain Water Exchange in Alzheimer’s Disease
+Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease
 
 **Hongyi Zhang**, Shuyuan Tan, Xuetao Wu, Ruilang Bai
 
-Data collection and data processing are currently underway.
+In preparation, 2026.
 
-We aim to use REXI to establish a noninvasive and repeatable method for measuring water exchange in the human brain, reflecting brain fluid homeostasis and neurodegeneration-related changes.
+- Data collection and data processing are currently underway.
+- Developing REXI as a noninvasive and repeatable method for measuring water exchange in the human brain to investigate brain fluid homeostasis and neurodegeneration-related changes.
 </div>
 </div>
 
