@@ -87,7 +87,7 @@ In preparation for submission to *Brain*, 2026.
 <div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
 <div class='paper-box-text' markdown="1">
 
-REXI-Based Quantitative MRI Assessment of Blood–CSF Barrier Water Exchange
+REXI-Based Quantitative MRI for Studying Brain Water Exchange in Alzheimer’s Disease
 
 **Hongyi Zhang**, Shuyuan Tan, Xuetao Wu, Ruilang Bai
 
