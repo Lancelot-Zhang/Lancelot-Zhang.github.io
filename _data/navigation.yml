@@ -15,11 +15,11 @@ main:
   - title: "Publication"
     url: "/#publication"
 
-  - title: "Industry"
-    url: "/#industry"
+  - title: "Industry Experience"
+    url: "/#industry-experience"
 
-  - title: "Teaching"
-    url: "/#teaching"
+  - title: "Teaching Experience"
+    url: "/#teaching-experience"
 
   - title: "Projects"
     url: "/#projects"

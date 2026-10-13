@@ -105,12 +105,27 @@ In preparation, 2026.
 
 For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
 
-# Industry
+# Industry Experience
+
+<div class='paper-box'><div class='paper-box-image paper-box-image--featured paper-box-image--pair'><div class="badge">PawVerse AI</div><div class="industry-figure-pair">
+  <a href="images/pawverse-ai-logo.png" aria-label="Open the PawVerse AI logo at full size"><img src="images/pawverse-ai-logo.png" alt="PawVerse AI logo" loading="lazy" decoding="async"></a>
+  <a href="images/catdeskpet-demo.png" aria-label="Open the CatDeskPet interaction image at full size"><img src="images/catdeskpet-demo.png" alt="CatDeskPet interactive desktop cat" loading="lazy" decoding="async"></a>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+PawVerse AI — CatDeskPet
+
+Approximately 10,000 users.
+
+- Built an automated desktop-pet generation workflow using the Codex mini approach, transforming a few pet photos into personalized intelligent desktop companions.
+- Supports system-tray residency, multiple pets online simultaneously, and interactive play such as petting.
+</div>
+</div>
 
 - *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc., Remote.
 - *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.
 
-# Teaching
+# Teaching Experience
 
 - *2025*, **Lead Teaching Assistant**, Probability and Stochastic Processes, Washington University in St. Louis.
 - *2025*, **Lead Teaching Assistant**, Optimization, Washington University in St. Louis.
