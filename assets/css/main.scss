@@ -100,26 +100,6 @@
         }
     }
 
-    .publication-figure-stack {
-        display: grid;
-        gap: 0.6rem;
-        width: 100%;
-        max-width: 520px;
-
-        a {
-            display: block;
-            line-height: 0;
-        }
-
-        img {
-            display: block;
-            width: 100%;
-            height: auto;
-            max-width: none;
-            object-fit: contain;
-        }
-    }
-    
     .paper-box-text{
         max-width: 100%;
         order: 1;

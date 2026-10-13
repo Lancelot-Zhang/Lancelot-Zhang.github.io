@@ -84,15 +84,16 @@ In preparation for submission to *Brain*, 2026.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><div class="publication-figure-stack">
-  <a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" loading="lazy" decoding="async"></a>
-  <a href="images/bcsfb-scan-rescan-maps.png" aria-label="Open the blood-CSF barrier scan-rescan maps at full size"><img src="images/bcsfb-scan-rescan-maps.png" alt="Scan-rescan blood-CSF barrier exchange-rate maps across multiple brain slices" loading="lazy" decoding="async"></a>
-</div></div>
+<div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
 <div class='paper-box-text' markdown="1">
 
 REXI-Based Quantitative MRI Assessment of Blood–CSF Barrier Water Exchange
 
-Data collection, scanning, and data processing are currently underway.
+**Hongyi Zhang**, Shuyuan Tan, Xuetao Wu, Ruilang Bai
+
+Data collection and data processing are currently underway.
+
+We aim to use REXI to establish a noninvasive and repeatable method for measuring water exchange in the human brain, reflecting brain fluid homeostasis and neurodegeneration-related changes.
 </div>
 </div>
 
