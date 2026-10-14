@@ -113,11 +113,11 @@ For the latest citation information, please see my [Google Scholar profile](http
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-PawVerse AI — CatDeskPet
+*April 2026 - Present*, **Co-founder**, PawVerse AI
 
-Approximately 10,000 users.
+CatDeskPet has reached 10,000+ users. The product turns household pets into personalized virtual companions and is now available for both macOS and Windows.
 
-- Built an automated desktop-pet generation workflow using the Codex mini approach, transforming a few pet photos into personalized intelligent desktop companions.
+- Built an automated desktop-pet generation workflow that creates Codex Mini-style desktop companions from photos of users' own pets.
 - Supports system-tray residency, multiple pets online simultaneously, and interactive play such as petting.
 </div>
 </div>
