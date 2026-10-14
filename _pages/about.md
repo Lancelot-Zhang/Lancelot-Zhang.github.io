@@ -43,17 +43,17 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 # Research
 
 - *Jul 2026–Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, supervised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).<br>
-  Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease.
+  **Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease.**
 - *Jan 2025–Present*, **Research Assistant**, Washington University in St. Louis, Computational Imaging Research Center, Medical AI Lab, supervised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).<br>
-  Mapping Phosphorylated Tau Using MD-MRI in Alzheimer’s Disease (**Outstanding Master’s Research Award**).
+  **Mapping Phosphorylated Tau Using MD-MRI in Alzheimer’s Disease** (**Outstanding Master’s Research Award**).
 - *Sep 2024–Jan 2025*, **Research Assistant**, University of Southern California, supervised by Prof. Weixuan Xia.<br>
-  Deep Neural Network Surrogate Modeling for High-Frequency Bitcoin Dynamics.
+  **Deep Neural Network Surrogate Modeling for High-Frequency Bitcoin Dynamics.**
 - *Sep 2023–May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, supervised by Prof. Qingxin Qi.<br>
-  Intelligent Mining and Rock Mechanics Analysis.
+  **Intelligent Mining and Rock Mechanics Analysis.**
 - *Sep 2023–Dec 2023*, **Research Assistant**, Duke University, supervised by Prof. Rabih Younes.<br>
-  Computer Vision and Real-Time Face Recognition.
+  **Computer Vision and Real-Time Face Recognition.**
 - *Jan 2023–Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, supervised by Prof. Jiaqiang Wen.<br>
-  Cryptocurrency Price Prediction Based on Machine Learning.
+  **Cryptocurrency Price Prediction Based on Machine Learning.**
 
 # Honors
 
