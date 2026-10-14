@@ -68,6 +68,20 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Publication
 
+<div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
+<div class='paper-box-text' markdown="1">
+
+Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease
+
+**Hongyi Zhang**, Shuyuan Tan, Xuetao Wu, Ruilang Bai
+
+In preparation, 2026.
+
+- Data collection and data processing are currently underway.
+- Developing REXI as a noninvasive and repeatable method for measuring water exchange in the human brain to investigate brain fluid homeostasis and neurodegeneration-related changes.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image paper-box-image--featured paper-box-image--pair'><div class="badge">In Preparation</div><div class="publication-figure-pair">
   <a href="images/ptau-mapping-figure-1.png" aria-label="Open the cohort ground-truth figure at full size"><img src="images/ptau-mapping-figure-1.png" alt="Internal and external cohort ground-truth maps for pTau regression and classification" loading="lazy" decoding="async"></a>
   <a href="images/ptau-mapping-figure-3.png" aria-label="Open the prediction comparison figure at full size"><img src="images/ptau-mapping-figure-3.png" alt="Ground-truth and random-forest prediction maps for pTau regression and classification" loading="lazy" decoding="async"></a>
@@ -81,20 +95,6 @@ Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheim
 In preparation for submission to *Brain*, 2026.
 
 - Developed a supervised machine learning framework using multidimensional MRI to estimate pTau concentration and spatial distribution in Alzheimer's disease.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
-<div class='paper-box-text' markdown="1">
-
-Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease
-
-**Hongyi Zhang**, Shuyuan Tan, Xuetao Wu, Ruilang Bai
-
-In preparation, 2026.
-
-- Data collection and data processing are currently underway.
-- Developing REXI as a noninvasive and repeatable method for measuring water exchange in the human brain to investigate brain fluid homeostasis and neurodegeneration-related changes.
 </div>
 </div>
 
