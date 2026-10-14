@@ -117,7 +117,7 @@ For the latest citation information, please see my [Google Scholar profile](http
 
 CatDeskPet has reached 10,000+ users. The product turns household pets into personalized virtual companions and is now available for both macOS and Windows.
 
-- Built an automated desktop-pet generation workflow that creates Codex Mini-style desktop companions from photos of users' own pets.
+- Built an automated desktop-pet generation workflow that transforms photos of users' own pets into personalized desktop companions.
 - Supports system-tray residency, multiple pets online simultaneously, and interactive play such as petting.
 </div>
 </div>

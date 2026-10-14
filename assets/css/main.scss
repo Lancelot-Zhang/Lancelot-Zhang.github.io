@@ -109,15 +109,18 @@
         align-items: center;
 
         a {
-            display: block;
+            display: flex;
+            aspect-ratio: 1;
+            align-items: center;
+            justify-content: center;
             line-height: 0;
         }
 
         img {
             display: block;
-            width: 100%;
-            height: auto;
-            max-width: none;
+            width: auto;
+            height: 100%;
+            max-width: 100%;
             box-shadow: 3px 3px 6px #888;
         }
     }
