@@ -69,8 +69,6 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 # Publications
 {: #publication}
 
-## Manuscripts in Preparation
-
 <div class='paper-box'><div class='paper-box-image paper-box-image--featured'><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
 <div class='paper-box-text' markdown="1">
 
@@ -105,10 +103,7 @@ In preparation for submission to *Brain*, 2026.
 </div>
 </div>
 
-## Thesis
-
 - **Hongyi Zhang**. Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease. *McKelvey School of Engineering Graduate Student Theses & Dissertations*, Washington University in St. Louis, 2026. [[Thesis]](https://repository.library.washu.edu/eng_etds/1356/)
-## Published Articles
 
 - **Hongyi Zhang**. Real-time face recognition method based on MTCNN-Inception-ResNet-v2-SVM model. *Applied and Computational Engineering*, 45, 179–189, 2024. [[DOI]](https://doi.org/10.54254/2755-2721/45/20241677)
 - H. Li, T. Du, B. Sun, W. Yang, B. Chang, Z. Zhao, H. Li, B. Jia, **Hongyi Zhang**. Bursting prevention of hard roof by axial slit cutting and fracturing with abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044, 2023. [[DOI]](https://doi.org/10.13532/j.jmsce.cn10-1638/td.20230904.001)
