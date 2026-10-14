@@ -1,0 +1,62 @@
+.avatar-flip {
+  display: block;
+  width: 75px;
+  height: 75px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  perspective: 800px;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.avatar-flip:focus-visible {
+  outline: 3px solid #527bbd;
+  outline-offset: 4px;
+}
+
+.avatar-flip__inner {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 600ms ease;
+}
+
+.avatar-flip[aria-pressed="true"] .avatar-flip__inner {
+  transform: rotateY(180deg);
+}
+
+.author__avatar .avatar-flip img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  max-width: none;
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.avatar-flip__back {
+  transform: rotateY(180deg);
+}
+
+@media (min-width: 57.8125em) {
+  .avatar-flip {
+    width: 175px;
+    height: 175px;
+    margin-inline: auto;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .avatar-flip__inner { transition: none; }
+}

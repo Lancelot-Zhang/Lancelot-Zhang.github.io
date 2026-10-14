@@ -5,7 +5,16 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
+    {% if author.avatar_alternate %}
+    <button class="avatar-flip" type="button" aria-label="Toggle portrait with or without sunglasses" aria-pressed="false" title="Click to flip portrait">
+      <span class="avatar-flip__inner">
+        <img class="avatar-flip__front" src="{{ author.avatar }}" alt="{{ author.name }} wearing sunglasses">
+        <img class="avatar-flip__back" src="{{ author.avatar_alternate }}" alt="{{ author.name }} wearing clear glasses" aria-hidden="true">
+      </span>
+    </button>
+    {% else %}
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% endif %}
   </div>
 
   <div class="author__content">
