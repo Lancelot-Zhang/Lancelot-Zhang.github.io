@@ -189,21 +189,67 @@
     }
   }
 
-  button {
+  .nav-toggle {
     position: absolute;
-    height: 100%;
+    top: 50%;
     right: 0;
-    padding: 0 0.5rem;
+    transform: translateY(-50%);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    min-width: 44px;
+    min-height: 44px;
+    margin: 0;
+    padding: 0 0.65rem;
     border: 0;
-    outline: none;
-    background-color: $primary-color;
-    color: #fff;
+    border-radius: 6px;
+    background: transparent;
+    color: $masthead-link-color;
+    font-family: inherit;
+    font-size: 1.1rem;
+    font-weight: normal;
+    line-height: 1.5;
     cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+
+    &.hidden { display: none; }
+
+    &:hover,
+    &[aria-expanded="true"] {
+      background: #f4f5f6;
+      color: $masthead-link-color-hover;
+    }
+
+    &:focus-visible {
+      outline: 2px solid $masthead-link-color;
+      outline-offset: 3px;
+    }
+
+    svg {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
+    }
+
+    &__chevron { transition: transform 0.2s; }
+    &[aria-expanded="true"] .nav-toggle__chevron { transform: rotate(180deg); }
+    &__menu { display: none; }
+
+    @media (max-width: 767px) {
+      padding: 0;
+      &__label, &__chevron { display: none; }
+      &__menu { display: block; }
+      &:hover, &[aria-expanded="true"] { background: transparent; }
+    }
   }
 
   .visible-links {
     display: table;
-    margin-left: auto;
+    margin-left: 0;
     margin-right: auto;
     font-size: 1.1rem;
 
@@ -257,48 +303,23 @@
     position: absolute;
     top: 100%;
     right: 0;
-    margin-top: 15px;
-    padding: 5px;
+    margin-top: 10px;
+    padding: 6px;
     border: 1px solid $border-color;
-    border-radius: $border-radius;
+    border-radius: 8px;
     background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: 0 6px 20px rgba(#000, 0.08);
 
     a {
       margin: 0;
-      padding: 10px 20px;
+      padding: 10px 16px;
+      border-radius: 4px;
       font-size: $type-size-5;
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: #f4f5f6;
       }
-    }
-
-    &:before {
-      content: "";
-      position: absolute;
-      top: -11px;
-      right: 10px;
-      width: 0;
-      border-style: solid;
-      border-width: 0 10px 10px;
-      border-color: $border-color transparent;
-      display: block;
-      z-index: 0;
-    }
-
-    &:after {
-      content: "";
-      position: absolute;
-      top: -10px;
-      right: 10px;
-      width: 0;
-      border-style: solid;
-      border-width: 0 10px 10px;
-      border-color: #fff transparent;
-      display: block;
-      z-index: 1;
     }
 
     li {
