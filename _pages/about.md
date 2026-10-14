@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is **Hongyi (Jack) Zhang**. I am currently an Assistant Researcher in Prof. Ruiliang Bai’s group at Zhejiang University. Previously, I earned an M.S. in Data Analytics and Statistics with Honors from Washington University in St. Louis, where I worked as a Research Assistant under the supervision of Prof. Shinjini Kundu.
+Hi! My name is **Hongyi (Jack) Zhang**. I am currently an Assistant Researcher in [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab)’s group at Zhejiang University. Previously, I earned an M.S. in Data Analytics and Statistics with Honors from Washington University in St. Louis, where I worked as a Research Assistant under the supervision of [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
 
 My research interests include Artificial Intelligence, Machine Learning, Mathematical Modeling, and Biomedical Informatics. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
-Beyond academia, I am also an open-source developer interested in leveraging coding agents to support open-source communities. I strongly believe in the open-source spirit and its potential to make technology more accessible, collaborative, and impactful.
+Beyond academia, I am also an open-source developer interested in using coding agents to support open-source communities. As an entrepreneur, I am dedicated to building an AI platform that lets your pets keep you company in virtual spaces, too.
 
-I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com).
+I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). Feel free to get in touch!
 
 {% comment %}
 # News
