@@ -49,11 +49,11 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 - *Sep 2024–Jan 2025*, **Research Assistant**, University of Southern California, supervised by Prof. Weixuan Xia.<br>
   **Deep Neural Network Surrogate Modeling for High-Frequency Bitcoin Dynamics.**
 - *Sep 2023–May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, supervised by Prof. Qingxin Qi.<br>
-  **Intelligent Mining and Rock Mechanics Analysis.**
+  **Image Recognition and Data Monitoring for Intelligent Mining, Mathematical Modeling, and Rock Mechanics Analysis.**
 - *Sep 2023–Dec 2023*, **Research Assistant**, Duke University, supervised by Prof. Rabih Younes.<br>
-  **Computer Vision and Real-Time Face Recognition.**
-- *Jan 2023–Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, supervised by Prof. Jiaqiang Wen.<br>
-  **Cryptocurrency Price Prediction Based on Machine Learning.**
+  **Image Processing and the Development and Enhancement of a Real-Time Face Recognition System.**
+- *Jan 2023–Jun 2023*, **Undergraduate Thesis Research**, Southern University of Science and Technology, supervised by Prof. Jiaqiang Wen.<br>
+  **Cryptocurrency Price Prediction Using Machine Learning.** (Deep Learning and Time Series Analysis)
 
 # Honors
 
