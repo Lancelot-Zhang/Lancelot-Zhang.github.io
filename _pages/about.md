@@ -105,7 +105,8 @@ In preparation for submission to *Brain*, 2026.
 
 For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
 
-# Industry Experience
+# Industry
+{: #industry-experience}
 
 <div class='paper-box'><div class='paper-box-image paper-box-image--featured paper-box-image--pair'><div class="badge">PawVerse AI</div><div class="industry-figure-pair">
   <a href="images/pawverse-ai-logo.png" aria-label="Open the PawVerse AI logo at full size"><img src="images/pawverse-ai-logo.png" alt="PawVerse AI logo" loading="lazy" decoding="async"></a>
@@ -125,7 +126,8 @@ CatDeskPet has reached 10,000+ users. The product turns household pets into pers
 - *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc., Remote.
 - *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.
 
-# Teaching Experience
+# Teaching
+{: #teaching-experience}
 
 - *2025*, **Lead Teaching Assistant**, Probability and Stochastic Processes, Washington University in St. Louis.
 - *2025*, **Lead Teaching Assistant**, Optimization, Washington University in St. Louis.
