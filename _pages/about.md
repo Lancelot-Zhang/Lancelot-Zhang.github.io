@@ -14,7 +14,7 @@ Hi! My name is **Hongyi (Jack) Zhang**. I am currently an Assistant Researcher i
 
 My research interests include artificial intelligence, machine learning, mathematical modeling, and biomedical informatics. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
-Beyond academia, I am an open-source developer interested in using coding agents to support open-source communities. I am also a co-founder of PawVerse AI, a platform that creates personalized virtual companions from photos of users’ pets.
+Beyond academia, I am an open-source developer interested in using coding agents to support open-source communities. I am also a co-founder of PawVerse AI, a platform that extends the companionship of your pets into the virtual world.
 
 I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). Feel free to get in touch!
 
