@@ -131,7 +131,7 @@ CatDeskPet has reached more than 10,000 users. It creates personalized virtual c
 </div>
 </div>
 
-- *Aug 2025–May 2026*, **AI Agent Developer**, Spect AI Inc., Remote.
+- *Aug 2025–May 2026*, **AI Engineer Intern**, Spect AI Inc., Remote.
 - *Jul 2021–Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.
 
 # Teaching
