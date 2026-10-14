@@ -8,10 +8,16 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  try {
+    if (localStorage.getItem('site-theme') === 'dark') {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  } catch (error) { /* Storage may be unavailable in private browsing. */ }
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css?v=20261014-responsive-layout">
+<link rel="stylesheet" href="assets/css/theme.css?v=20261014">
 
 <meta http-equiv="cleartype" content="on">
 <head>
