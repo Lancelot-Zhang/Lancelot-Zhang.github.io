@@ -290,3 +290,24 @@
     display: none;
   }
 }
+
+@media (max-width: 924px) {
+  .profile_box {
+    display: grid;
+    grid-template-columns: 75px minmax(0, 1fr);
+    gap: 0.5rem 1rem;
+    align-items: center;
+  }
+  .author__content { min-width: 0; padding: 0; line-height: 1.25; }
+  .author__name { white-space: nowrap; }
+  .sidebar .author__name { font-size: 1.25rem; }
+  .author__urls-wrapper { grid-column: 1 / -1; margin: 0; }
+  .author__urls_sm {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0;
+    font-size: 1.25rem;
+    a { display: inline-flex; width: 44px; height: 44px; align-items: center; justify-content: center; }
+  }
+}

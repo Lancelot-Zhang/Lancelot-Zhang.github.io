@@ -33,10 +33,10 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Education
 
-- **Washington University in St. Louis (WashU)**, USA <span style="float: right;">*Aug 2024–May 2026*</span><br>
+- <span class="education-header"><span><strong>Washington University in St. Louis (WashU)</strong>, USA</span><span class="education-date">Aug 2024–May 2026</span></span>
   M.S. in Data Analytics and Statistics with honors.<br>
   Advisors: [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
-- **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019–Jul 2023*</span><br>
+- <span class="education-header"><span><strong>Southern University of Science and Technology (SUSTech)</strong>, China</span><span class="education-date">Aug 2019–Jul 2023</span></span>
   B.S. in Mathematics and Applied Mathematics.<br>
   Advisor: [Prof. Jiaqiang Wen](https://math.sustech.edu.cn/c/wenjiaqiang).
 
@@ -71,8 +71,10 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 ## Manuscripts in Preparation
 
-<div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
+<div class='paper-box'><div class='paper-box-image paper-box-image--featured'><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
 <div class='paper-box-text' markdown="1">
+
+<span class="badge">In Preparation</span>
 
 Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease
 
@@ -85,11 +87,13 @@ In preparation, 2026.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image paper-box-image--featured paper-box-image--pair'><div class="badge">In Preparation</div><div class="publication-figure-pair">
+<div class='paper-box'><div class='paper-box-image paper-box-image--featured paper-box-image--pair'><div class="publication-figure-pair">
   <a href="images/ptau-mapping-figure-1.png" aria-label="Open the cohort ground-truth figure at full size"><img src="images/ptau-mapping-figure-1.png" alt="Internal and external cohort ground-truth maps for pTau regression and classification" loading="lazy" decoding="async"></a>
   <a href="images/ptau-mapping-figure-3.png" aria-label="Open the prediction comparison figure at full size"><img src="images/ptau-mapping-figure-3.png" alt="Ground-truth and random-forest prediction maps for pTau regression and classification" loading="lazy" decoding="async"></a>
 </div></div>
 <div class='paper-box-text' markdown="1">
+
+<span class="badge">In Preparation</span>
 
 Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease
 
@@ -115,11 +119,13 @@ For current citation metrics, see my [Google Scholar profile](https://scholar.go
 # Industry
 {: #industry-experience}
 
-<div class='paper-box'><div class='paper-box-image paper-box-image--featured paper-box-image--pair'><div class="badge">PawVerse AI</div><div class="industry-figure-pair">
+<div class='paper-box'><div class='paper-box-image paper-box-image--featured paper-box-image--pair'><div class="industry-figure-pair">
   <a href="images/pawverse-ai-logo.png" aria-label="Open the PawVerse AI logo at full size"><img src="images/pawverse-ai-logo.png" alt="PawVerse AI logo" loading="lazy" decoding="async"></a>
   <a href="images/catdeskpet-demo.png" aria-label="Open the CatDeskPet interaction image at full size"><img src="images/catdeskpet-demo.png" alt="CatDeskPet interactive desktop cat" loading="lazy" decoding="async"></a>
 </div></div>
 <div class='paper-box-text' markdown="1">
+
+<span class="badge">PawVerse AI</span>
 
 *Apr 2026–Present*, **Co-founder**, PawVerse AI.
 
@@ -165,15 +171,6 @@ CatDeskPet has reached more than 10,000 users. It creates personalized virtual c
 If you enjoy sports and would like a training partner, feel free to reach out!
 
 <style>
-  .page__content p,
-  .page__content li {
-    text-align: justify;
-    text-align-last: left;
-    -webkit-hyphens: auto;
-    hyphens: auto;
-    overflow-wrap: break-word;
-  }
-
   .visitor-map {
     margin: 2.2rem 0 2.8rem;
     border-top: 1px solid #efefef;

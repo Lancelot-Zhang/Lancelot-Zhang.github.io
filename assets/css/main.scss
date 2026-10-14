@@ -41,133 +41,78 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page__content {
+    p, li { text-align: left; hyphens: none; overflow-wrap: break-word; }
+}
+
+.education-header {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.35rem 1.25rem;
+    align-items: baseline;
+}
+.education-date { font-style: italic; white-space: nowrap; }
+@media (max-width: 1099px) {
+    .education-header { grid-template-columns: minmax(0, 1fr); }
+    .education-date { font-size: 0.95em; color: $masthead-link-color; }
+}
+
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    flex-direction: column;
+    gap: 1.25rem;
+    border-bottom: 1px solid #efefef;
+    padding: 1.5em 0;
 
-    .paper-box-image{
-        justify-content: center;
+    .paper-box-image {
         display: flex;
+        justify-content: center;
         width: 100%;
         order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+        > a { display: block; max-width: 400px; line-height: 0; }
+        img { display: block; max-width: 100%; height: auto; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12); }
     }
-
-    .paper-box-image--featured {
-        position: relative;
-
-        > .badge {
-            top: 0.5rem;
-            left: -0.5rem;
-            margin: 0;
-        }
+    .paper-box-text { width: 100%; min-width: 0; order: 1; }
+    .paper-box-text > :last-child { margin-bottom: 0; }
+    .badge {
+        display: inline-block;
+        padding: 0.15rem 0.6rem;
+        color: white;
+        background: #00369f;
+        font-size: 0.75rem;
+        line-height: 1.5;
+        border-radius: 3px;
     }
-
-    .publication-figure-pair {
+    .publication-figure-pair, .industry-figure-pair {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 0.6rem;
         width: 100%;
         max-width: 520px;
-
-        a {
-            display: flex;
-            aspect-ratio: 0.7;
-            align-items: center;
-            justify-content: center;
-            overflow: hidden;
-            background: #000;
-            box-shadow: 3px 3px 6px #888;
-        }
-
-        img {
-            display: block;
-            width: 100%;
-            height: 100%;
-            max-width: none;
-            object-fit: contain;
-            box-shadow: none;
-        }
     }
-
-    .industry-figure-pair {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 0.6rem;
-        width: 100%;
-        max-width: 520px;
+    .publication-figure-pair a {
+        display: flex;
+        aspect-ratio: 0.7;
         align-items: center;
-
-        a {
-            display: flex;
-            aspect-ratio: 1;
-            align-items: center;
-            justify-content: center;
-            line-height: 0;
-        }
-
-        img {
-            display: block;
-            width: auto;
-            height: 100%;
-            max-width: 100%;
-            box-shadow: 3px 3px 6px #888;
-        }
+        justify-content: center;
+        overflow: hidden;
+        background: #000;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+        img { width: 100%; height: 100%; object-fit: contain; box-shadow: none; }
     }
-
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
+    .industry-figure-pair {
+        align-items: center;
+        a { display: flex; aspect-ratio: 1; align-items: center; justify-content: center; line-height: 0; }
+        img { width: auto; height: 100%; max-width: 100%; object-fit: contain; }
     }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
+    @media (min-width: 1100px) {
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 2rem;
+        .paper-box-image { flex: 0 0 40%; width: 40%; order: 1; }
+        .paper-box-text { flex: 1; order: 2; }
     }
-
-
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
-}
-
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
-    z-index: 1;
-}
+// Keep anchored headings below the sticky masthead, with room to breathe.
+html { scroll-padding-top: 92px; }
