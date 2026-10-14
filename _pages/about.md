@@ -10,11 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is **Hongyi (Jack) Zhang**. I am currently an Assistant Researcher in [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab)’s group at Zhejiang University. Previously, I earned an M.S. in Data Analytics and Statistics with Honors from Washington University in St. Louis, where I worked as a Research Assistant under the supervision of [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
+Hi! My name is **Hongyi (Jack) Zhang**. I am currently an Assistant Researcher in [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab)’s group at Zhejiang University. I earned an M.S. in Data Analytics and Statistics with honors from Washington University in St. Louis, where my research has been supervised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
 
-My research interests include Artificial Intelligence, Machine Learning, Mathematical Modeling, and Biomedical Informatics. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
+My research interests include artificial intelligence, machine learning, mathematical modeling, and biomedical informatics. I am especially interested in building reliable AI systems that connect rigorous statistical modeling with real-world clinical and engineering applications.
 
-Beyond academia, I am also an open-source developer interested in using coding agents to support open-source communities. As an entrepreneur, I am dedicated to building an AI platform that lets your pets keep you company in virtual spaces, too.
+Beyond academia, I am an open-source developer interested in using coding agents to support open-source communities. I am also a co-founder of PawVerse AI, a platform that creates personalized virtual companions from photos of users’ pets.
 
 I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [hongyi.zhang.cn@gmail.com](mailto:hongyi.zhang.cn@gmail.com). Feel free to get in touch!
 
@@ -33,52 +33,55 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 
 # Education
 
-- **Washington University in St. Louis (WashU)**, USA <span style="float: right;">*Aug 2024 - May 2026*</span><br>
-  M.S. in Data Analytics and Statistics with Honors.<br>
-  Advisors: [Professor Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
-- **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019 - Jul 2023*</span><br>
+- **Washington University in St. Louis (WashU)**, USA <span style="float: right;">*Aug 2024–May 2026*</span><br>
+  M.S. in Data Analytics and Statistics with honors.<br>
+  Advisors: [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).
+- **Southern University of Science and Technology (SUSTech)**, China <span style="float: right;">*Aug 2019–Jul 2023*</span><br>
   B.S. in Mathematics and Applied Mathematics.<br>
-  Advisor: [Professor Jiaqiang Wen](https://math.sustech.edu.cn/c/wenjiaqiang).
+  Advisor: [Prof. Jiaqiang Wen](https://math.sustech.edu.cn/c/wenjiaqiang).
 
 # Research
 
-- *July 2026 - Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, advised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).<br>
+- *Jul 2026–Present*, **Assistant Researcher**, Zhejiang University, School of Medicine, Bai Lab, supervised by [Prof. Ruiliang Bai](https://person.zju.edu.cn/en/Bai_Lab).<br>
   Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease.
-- *Jan 2025 - Present*, **Research Assistant**, Washington University in St. Louis, Computational Imaging Research Center, Medical AI Lab, advised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).<br>
-  Mapping Phosphorylated Tau Using MD-MRI in Alzheimer's Disease (**Outstanding Master’s Research Award**).
-- *Sep 2024 - Jan 2025*, **Research Assistant**, University of Southern California, advised by Prof. Weixuan Xia.<br>
+- *Jan 2025–Present*, **Research Assistant**, Washington University in St. Louis, Computational Imaging Research Center, Medical AI Lab, supervised by [Prof. Shinjini Kundu](https://www.mir.wustl.edu/employees/shinjini-kundu/) and [Dr. Dan Benjamini](https://irp.nih.gov/pi/dan-benjamini).<br>
+  Mapping Phosphorylated Tau Using MD-MRI in Alzheimer’s Disease (**Outstanding Master’s Research Award**).
+- *Sep 2024–Jan 2025*, **Research Assistant**, University of Southern California, supervised by Prof. Weixuan Xia.<br>
   Deep Neural Network Surrogate Modeling for High-Frequency Bitcoin Dynamics.
-- *Sep 2023 - May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, advised by Prof. Qingxin Qi.<br>
+- *Sep 2023–May 2024*, **Research Assistant**, Chinese Institute of Coal Science, State Key Laboratory of Intelligent Mining, supervised by Prof. Qingxin Qi.<br>
   Intelligent Mining and Rock Mechanics Analysis.
-- *Sep 2023 - Dec 2023*, **Research Assistant**, Duke University, advised by Prof. Rabih Younes.<br>
+- *Sep 2023–Dec 2023*, **Research Assistant**, Duke University, supervised by Prof. Rabih Younes.<br>
   Computer Vision and Real-Time Face Recognition.
-- *Jan 2023 - Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, advised by Prof. Jiaqiang Wen.<br>
+- *Jan 2023–Jun 2023*, **Undergraduate Research Assistant**, Southern University of Science and Technology, supervised by Prof. Jiaqiang Wen.<br>
   Cryptocurrency Price Prediction Based on Machine Learning.
 
 # Honors
 
-- *2026*, **The Outstanding Master's Research Award**, WashU.
-- *2026*, **Master's Honors Program**, WashU.
+- *2026*, **Outstanding Master’s Research Award**, WashU.
+- *2026*, Selected for the **Master’s Honors Program**, WashU.
 - *2026*, **Student Marshal**, WashU.
 - *2022*, **SUSTech Outstanding Undergraduate Scholarship**, SUSTech.
-- *2022*, **Honorable Mention, Mathematical Contest in Modeling**, COMAP, Leader.
-- *2021*, **Excellence Award, China Undergraduate Mathematical Contest in Modeling**, CSIAM, Leader.
-- *2020*, **Overall 7th Place, Joint University Investment Game**, HKSI.
+- *2022*, **Honorable Mention, Mathematical Contest in Modeling**, COMAP, Team Leader.
+- *2021*, **Excellence Award, China Undergraduate Mathematical Contest in Modeling**, CSIAM, Team Leader.
+- *2020*, **7th Place Overall, Joint University Investment Game**, HKSI.
 - *2019*, **SUSTech Freshman Scholarship**, SUSTech.
 
-# Publication
+# Publications
+{: #publication}
+
+## Manuscripts in Preparation
 
 <div class='paper-box'><div class='paper-box-image paper-box-image--featured'><div class="badge">In Preparation</div><a href="images/bcsfb-water-exchange.png" aria-label="Open the blood-CSF barrier water-exchange figure at full size"><img src="images/bcsfb-water-exchange.png" alt="Blood-CSF barrier exchange-rate map and voxel-wise apparent exchange-rate fit" width="100%" loading="lazy" decoding="async"></a></div>
 <div class='paper-box-text' markdown="1">
 
 Relaxation-Exchange Magnetic Resonance Imaging (REXI) for Investigating Brain Water Exchange in Alzheimer’s Disease
 
-**Hongyi Zhang**, Shuyuan Tan, Xuetao Wu, Ruilang Bai
+**Hongyi Zhang**, Shuyuan Tan, Xuetao Wu, Ruiliang Bai
 
 In preparation, 2026.
 
-- Data collection and data processing are currently underway.
-- Developing REXI as a noninvasive and repeatable method for measuring water exchange in the human brain to investigate brain fluid homeostasis and neurodegeneration-related changes.
+- Data collection and processing are underway.
+- Developing and evaluating REXI for noninvasive assessment of brain water exchange to investigate brain fluid homeostasis and neurodegeneration-related changes.
 </div>
 </div>
 
@@ -94,16 +97,20 @@ Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheim
 
 In preparation for submission to *Brain*, 2026.
 
-- Developed a supervised machine learning framework using multidimensional MRI to estimate pTau concentration and spatial distribution in Alzheimer's disease.
+- Developed a supervised machine learning framework using multidimensional MRI to estimate histology-defined phosphorylated tau (pTau) burden and its spatial distribution in Alzheimer’s disease.
 </div>
 </div>
 
-- **Hongyi Zhang**. Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease. *McKelvey School of Engineering Theses & Dissertations*, Washington University in St. Louis, 2026. [[Thesis]](https://openscholarship.wustl.edu/eng_etds/1356)
-- **Hongyi Zhang**. Real-time face recognition method based on MTCNN-Inception-ResNet-v2-SVM model. *Applied and Computational Engineering*, 45, 179-189, 2024. [[DOI]](https://doi.org/10.54254/2755-2721/45/20241677)
-- L. Hai, T. Du, B. Sun, W. Yang, B. Chang, Z. Zhao, H. Li, B. Jia, **Hongyi Zhang**. Bursting prevention of hard roof by axial slit cutting and fracturing with abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044-053044, 2023. [[DOI]](https://doi.org/10.13532/j.jmsce.cn10-1638/td.20230904.001)
-- Y. M. Wang, S. Lei, **Hongyi Zhang**. Numerical simulation analysis of coal silos surrounding rock stability under different coal storage conditions. *China Energy and Environmental Protection*, 45(08), 6-10, 2023. [[DOI]](https://doi.org/10.19389/j.cnki.1003-0506.2023.08.002)
+## Thesis
 
-For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
+- **Hongyi Zhang**. Multidimensional MRI Maps Histology-Defined Phosphorylated Tau Burden in Alzheimer's Disease. *McKelvey School of Engineering Graduate Student Theses & Dissertations*, Washington University in St. Louis, 2026. [[Thesis]](https://repository.library.washu.edu/eng_etds/1356/)
+## Published Articles
+
+- **Hongyi Zhang**. Real-time face recognition method based on MTCNN-Inception-ResNet-v2-SVM model. *Applied and Computational Engineering*, 45, 179–189, 2024. [[DOI]](https://doi.org/10.54254/2755-2721/45/20241677)
+- H. Li, T. Du, B. Sun, W. Yang, B. Chang, Z. Zhao, H. Li, B. Jia, **Hongyi Zhang**. Bursting prevention of hard roof by axial slit cutting and fracturing with abrasive jet. *Journal of Mining and Strata Control Engineering*, 5(5), 053044, 2023. [[DOI]](https://doi.org/10.13532/j.jmsce.cn10-1638/td.20230904.001)
+- Y. M. Wang, S. Lei, **Hongyi Zhang**. Numerical simulation analysis of coal silos surrounding rock stability under different coal storage conditions. *China Energy and Environmental Protection*, 45(8), 6–10, 2023. [[DOI]](https://doi.org/10.19389/j.cnki.1003-0506.2023.08.002)
+
+For current citation metrics, see my [Google Scholar profile](https://scholar.google.com/citations?user=3Z88MpwAAAAJ&hl=en&inst=2230987035966559800).
 
 # Industry
 {: #industry-experience}
@@ -114,41 +121,42 @@ For the latest citation information, please see my [Google Scholar profile](http
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-*April 2026 - Present*, **Co-founder**, PawVerse AI
+*Apr 2026–Present*, **Co-founder**, PawVerse AI.
 
-CatDeskPet has reached 10,000+ users. The product turns household pets into personalized virtual companions and is now available for both macOS and Windows.
+CatDeskPet has reached more than 10,000 users. It creates personalized virtual companions from photos of users’ pets and is available on macOS and Windows.
 
-- Built an automated desktop-pet generation workflow that transforms photos of users' own pets into personalized desktop companions.
-- Supports system-tray residency, multiple pets online simultaneously, and interactive play such as petting.
+- Built an automated workflow for generating personalized desktop pets from users’ photos.
+- The app runs in the background and supports multiple pets on screen at once and interactions such as petting.
 </div>
 </div>
 
-- *Aug 2025 - May 2026*, **AI Agent Developer**, Spect AI Inc., Remote.
-- *Jul 2021 - Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.
+- *Aug 2025–May 2026*, **AI Agent Developer**, Spect AI Inc., Remote.
+- *Jul 2021–Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.
 
 # Teaching
 {: #teaching-experience}
 
+- *2026*, **Grader**, Introduction to Machine Learning and Pattern Classification, Washington University in St. Louis.
 - *2025*, **Lead Teaching Assistant**, Probability and Stochastic Processes, Washington University in St. Louis.
 - *2025*, **Lead Teaching Assistant**, Optimization, Washington University in St. Louis.
-- *2026*, **Grader**, Introduction to Machine Learning and Pattern Classification, Washington University in St. Louis.
 - *2022*, **Teaching Assistant**, Introduction to MATLAB, Southern University of Science and Technology.
 
 # Projects
 
-- *Sep 2024 - Mar 2025*, **Project Leader**, Project-Based Learning, Massachusetts Institute of Technology.
-- *2022*, **Data Science Program**, North Carolina State University, Grade: A+.
+- *Sep 2024–Mar 2025*, **Project Leader**, Project-Based Learning program, Massachusetts Institute of Technology.
+- *2022*, **Participant**, Data Science Program, North Carolina State University, grade: A+.
 
-# Leadership
+# Leadership & Service
+{: #leadership}
 
 - *May 2026*, Commencement Volunteer, Washington University in St. Louis.
-- *Feb 2026 - Present*, Member, United Way of Greater St. Louis Volunteer Center.
-- *Jun 2025 - Present*, Member, St. Louis Young Single Adult (YSA) Community.
+- *Feb 2026–Present*, Member, United Way of Greater St. Louis Volunteer Center.
+- *Jun 2025–Present*, Member, St. Louis Young Single Adult (YSA) Community.
 - *Apr 2024*, Forum Volunteer, Mining Artificial Intelligence Forum.
 - *Nov 2023*, Conference Volunteer, Digital Rock Mechanics Launch Conference.
-- *Mar 2022 - Sep 2022*, Volunteer, SUSTech COVID-19 Prevention and Control Team.
-- *Mar 2020 - Sep 2022*, Co-founder, SUSTech Powerlifting Club.
-- *Dec 2019 - Jan 2020*, Volunteer, SUSTech Undergraduate Admission Office.
+- *Mar 2022–Sep 2022*, Volunteer, SUSTech COVID-19 Prevention and Control Team.
+- *Mar 2020–Sep 2022*, Co-founder, SUSTech Powerlifting Club.
+- *Dec 2019–Jan 2020*, Volunteer, undergraduate admissions, SUSTech.
 
 # Hobbies
 

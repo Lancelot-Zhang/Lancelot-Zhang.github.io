@@ -12,7 +12,7 @@ main:
   - title: "Honors"
     url: "/#honors"
 
-  - title: "Publication"
+  - title: "Publications"
     url: "/#publication"
 
   - title: "Industry"
@@ -24,7 +24,7 @@ main:
   - title: "Projects"
     url: "/#projects"
 
-  - title: "Leadership"
+  - title: "Leadership & Service"
     url: "/#leadership"
 
   - title: "Hobbies"
