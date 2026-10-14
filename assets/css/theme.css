@@ -32,11 +32,12 @@
   html[data-theme="dark"] .greedy-nav a,
   html[data-theme="dark"] .greedy-nav button,
   html[data-theme="dark"] .author__urls a { color: #f2f2f2; }
-  html[data-theme="dark"] .greedy-nav .hidden-links,
-  html[data-theme="dark"] .author__urls { background: #1c1c1c; border-color: #444; }
+  html[data-theme="dark"] .greedy-nav .hidden-links { background: #1c1c1c; border-color: #444; }
+  html[data-theme="dark"] .author__urls { background: #111; border-color: #444; }
+  html[data-theme="dark"] .sidebar .social-icons i { color: inherit; }
   html[data-theme="dark"] .greedy-nav .hidden-links a:hover { background: #303030; }
-  html[data-theme="dark"] .greedy-nav .hidden-links::after,
-  html[data-theme="dark"] .author__urls::after { border-color: #1c1c1c transparent; }
+  html[data-theme="dark"] .greedy-nav .hidden-links::after { border-color: #1c1c1c transparent; }
+  html[data-theme="dark"] .author__urls::after { border-color: #111 transparent; }
   html[data-theme="dark"] .masthead,
   html[data-theme="dark"] .paper-box,
   html[data-theme="dark"] .page__content h1,
@@ -52,5 +53,8 @@
   html[data-theme="dark"] .theme-toggle__sun { display: block; }
   html[data-theme="dark"] code,
   html[data-theme="dark"] pre { background: #252525; color: #f2f2f2; }
+}
+@media screen and (min-width: 1200px) {
+  html[data-theme="dark"] .author__urls { background: transparent; }
 }
 @media print { .theme-toggle { display: none; } }
