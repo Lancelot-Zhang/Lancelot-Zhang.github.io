@@ -22,7 +22,7 @@
   });
   window.addEventListener('storage', function (event) {
     if (event.key === 'site-theme' || event.key === null) {
-      root.setAttribute('data-theme', event.newValue === 'dark' ? 'dark' : 'light');
+      root.setAttribute('data-theme', event.newValue === 'light' ? 'light' : 'dark');
       render();
     }
   });
