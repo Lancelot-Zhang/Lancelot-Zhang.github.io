@@ -155,6 +155,15 @@ CatDeskPet has reached 10,000+ users. The product turns household pets into pers
 If you enjoy sports and would like a training partner, feel free to reach out!
 
 <style>
+  .page__content p,
+  .page__content li {
+    text-align: justify;
+    text-align-last: left;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    overflow-wrap: break-word;
+  }
+
   .visitor-map {
     margin: 2.2rem 0 2.8rem;
     border-top: 1px solid #efefef;
