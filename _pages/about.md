@@ -58,7 +58,7 @@ I can be reached at [hongyi.zhang@wustl.edu](mailto:hongyi.zhang@wustl.edu) or [
 # Honors
 
 - *2026*, **Outstanding Master’s Research Award**, WashU.
-- *2026*, Selected for the **Master’s Honors Program**, WashU.
+- *2026*, **Master’s Honors Program**, WashU.
 - *2026*, **Student Marshal**, WashU.
 - *2022*, **SUSTech Outstanding Undergraduate Scholarship**, SUSTech.
 - *2022*, **Honorable Mention, Mathematical Contest in Modeling**, COMAP, Team Leader.
