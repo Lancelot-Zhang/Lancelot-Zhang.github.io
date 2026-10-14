@@ -73,6 +73,16 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    text-align: center;
+
+    .author__avatar img {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .author__urls a {
+      padding-right: 0;
+    }
   }
   display: flex;
   justify-content: flex-start;
