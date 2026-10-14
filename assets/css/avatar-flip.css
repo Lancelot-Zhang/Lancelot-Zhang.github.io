@@ -27,7 +27,7 @@
   transition: transform 600ms ease;
 }
 
-.avatar-flip[aria-pressed="true"] .avatar-flip__inner {
+.avatar-flip[data-flipped="true"] .avatar-flip__inner {
   transform: rotateY(180deg);
 }
 
