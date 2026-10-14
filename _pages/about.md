@@ -131,8 +131,10 @@ CatDeskPet has reached more than 10,000 users. It creates personalized virtual c
 </div>
 </div>
 
-- *Aug 2025–May 2026*, **AI Engineer Intern**, Spect AI Inc., Remote.
-- *Jul 2021–Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.
+- *Aug 2025–May 2026*, **AI Engineer Intern**, Spect AI Inc., Remote.<br>
+  Built data pipelines, predictive models, and AI tools for engineering decisions and mine construction modeling.
+- *Jul 2021–Aug 2021*, **Data Analysis Intern**, CCTEG Financial Leasing Co., Ltd., Beijing.<br>
+  Improved credit ratings and market forecasts, and analyzed asset performance and client default risks.
 
 # Teaching
 {: #teaching-experience}
