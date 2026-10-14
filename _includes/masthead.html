@@ -2,18 +2,14 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button class="nav-toggle" type="button" aria-label="More navigation links" aria-expanded="false" aria-controls="overflow-navigation">
-          <span class="nav-toggle__label" aria-hidden="true">More</span>
-          <svg class="nav-toggle__chevron" aria-hidden="true" width="12" height="12" viewBox="0 0 16 16"><path d="m4 6 4 4 4-4" /></svg>
-          <svg class="nav-toggle__menu" aria-hidden="true" width="22" height="22" viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18" /></svg>
-        </button>
+        <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <ul id="overflow-navigation" class="hidden-links hidden"></ul>
+        <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
