@@ -1,7 +1,9 @@
 # Site Settings
 title                    : "Hongyi Zhang"
 description              : "Stay hungry, stay foolish."
-repository               : "Lancelot-Zhang/Lancelot-Zhang.github.io"
+repository               : "hongyi-zhang-x/hongyi-zhang-x.github.io"
+url                      : "https://hongyi-zhang-x.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 google_scholar_stats_enabled : true
 
@@ -34,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Lancelot-Zhang"
+  github           : "hongyi-zhang-x"
   google_plus      :
   keybase          :
   instagram        :

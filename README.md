@@ -2,7 +2,7 @@
 
 Source code for the personal academic homepage of **Hongyi (Jack) Zhang**, M.S. student in Data Analytics and Statistics at Washington University in St. Louis and Research Assistant at the WashU Medical AI Lab.
 
-**Live site:** [https://Lancelot-Zhang.github.io](https://Lancelot-Zhang.github.io)
+**Live site:** [https://hongyi-zhang-x.github.io](https://hongyi-zhang-x.github.io)
 
 This is a Jekyll site deployed with GitHub Pages. It is based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template, with customized homepage content, sidebar profile links, navigation, publication formatting, and a visitor map widget.
 
@@ -68,7 +68,7 @@ The homepage uses a MapMyVisitors widget near the bottom of `_pages/about.md`. T
 ## Deployment
 
 1. Commit changes to the `main` branch.
-2. Push to `Lancelot-Zhang/Lancelot-Zhang.github.io`.
+2. Push to `hongyi-zhang-x/hongyi-zhang-x.github.io`.
 3. GitHub Pages builds and publishes the site automatically.
 
 ## Acknowledgements
